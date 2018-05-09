@@ -1,0 +1,8 @@
+﻿Uninstalling assembly 'F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.InstallLog
+   assemblypath = F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+Removing EventLog source DevinWindowService.
+Service DevinWindowService is being removed from the system...
+Service DevinWindowService was successfully removed from the system.

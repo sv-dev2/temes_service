@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DevinTwilioModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Appointment">
+    <Key>
+      <PropertyRef Name="Appointment_ID" />
+    </Key>
+    <Property Name="Appointment_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Appointment_PatientID" Type="int" />
+    <Property Name="Appointment_ProviderID" Type="int" />
+    <Property Name="Appointment_Trigger_EventId" Type="int" />
+    <Property Name="Appointment_Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="Appointment_StartTime" Type="datetime" />
+    <Property Name="Appointment_EndTime" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="AppointmentProvider">
+    <Key>
+      <PropertyRef Name="AppointmentProvider_ID" />
+    </Key>
+    <Property Name="AppointmentProvider_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AppointmentProvider_Name" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="AppointmentType">
+    <Key>
+      <PropertyRef Name="AppointmentType_ID" />
+    </Key>
+    <Property Name="AppointmentType_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AppointmentType_Name" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="DashboardText">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="text" />
+    <Property Name="Date" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="Message_ID" />
+    </Key>
+    <Property Name="Message_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Message_Messages" Type="nvarchar" MaxLength="500" />
+    <Property Name="Message_TriggerTypeID" Type="int" />
+    <Property Name="Message_TriggerEventID" Type="int" />
+    <Property Name="Message_TriggerID" Type="int" />
+    <Property Name="Message_Time" Type="nvarchar" MaxLength="100" />
+    <Property Name="Message_FrequencyOfDelivery" Type="nvarchar" MaxLength="200" />
+    <Property Name="Message_If1" Type="nvarchar" MaxLength="200" />
+    <Property Name="Message_If2" Type="nvarchar" MaxLength="200" />
+    <Property Name="Message_OtherNotes" Type="nvarchar" MaxLength="500" />
+    <Property Name="Message_TimesSent" Type="nvarchar" MaxLength="200" />
+    <Property Name="Message_MMDomainID" Type="int" />
+    <Property Name="Message_MMSubDomainID" Type="int" />
+    <Property Name="Message_StageInTXID" Type="int" />
+  </EntityType>
+  <EntityType Name="MMDomain">
+    <Key>
+      <PropertyRef Name="MMDomain_ID" />
+    </Key>
+    <Property Name="MMDomain_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MMDomain_Name" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="MMSubDomain">
+    <Key>
+      <PropertyRef Name="MMSubDomain_ID" />
+    </Key>
+    <Property Name="MMSubDomain_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MMSubDomain_Name" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="Provider">
+    <Key>
+      <PropertyRef Name="ProviderId" />
+    </Key>
+    <Property Name="ProviderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProviderName" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="200" />
+    <Property Name="ContactName" Type="varchar" MaxLength="100" />
+    <Property Name="ContactEmail" Type="varchar" MaxLength="50" />
+    <Property Name="ContactPhone" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Role_Id" />
+    </Key>
+    <Property Name="Role_Id" Type="int" Nullable="false" />
+    <Property Name="Role_Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ScheduleMessage">
+    <Key>
+      <PropertyRef Name="ScheduleMessage_ID" />
+    </Key>
+    <Property Name="ScheduleMessage_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ScheduleMessage_Message" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ScheduleMessage_TriggerTypeID" Type="int" />
+    <Property Name="ScheduleMessage_TriggerEventID" Type="int" />
+    <Property Name="ScheduleMessage_TriggerID" Type="int" />
+    <Property Name="ScheduleMessage_StartTime" Type="datetime2" Precision="7" />
+    <Property Name="ScheduleMessage_EndTime" Type="datetime2" Precision="7" />
+    <Property Name="ScheduleMessage_FrequencyOfDelivery" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ScheduleMessage_If1" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ScheduleMessage_If2" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ScheduleMessage_OtherNotes" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ScheduleMessage_TimesSent" Type="nvarchar" MaxLength="100" />
+    <Property Name="ScheduleMessage_MMDomainID" Type="int" />
+    <Property Name="ScheduleMessage_MMSubDomainID" Type="int" />
+    <Property Name="ScheduleMessage_Time" Type="nvarchar" MaxLength="100" />
+    <Property Name="Display_MessageId" Type="int" />
+    <Property Name="Appointment_Schedule" Type="int" />
+  </EntityType>
+  <EntityType Name="SmsReply">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Sid" Type="nvarchar(max)" />
+    <Property Name="From" Type="nvarchar(max)" />
+    <Property Name="To" Type="nvarchar(max)" />
+    <Property Name="ParentSid" Type="int" />
+    <Property Name="MessageId" Type="int" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="MessageResponse" Type="varchar" MaxLength="50" />
+    <Property Name="SmsStatus" Type="varchar" MaxLength="50" />
+    <Property Name="SentDate" Type="datetime" />
+    <Property Name="ResponseDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="StageInTX">
+    <Key>
+      <PropertyRef Name="StageInTX_ID" />
+    </Key>
+    <Property Name="StageInTX_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StageInTX_Name" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Trigger">
+    <Key>
+      <PropertyRef Name="Trigger_ID" />
+    </Key>
+    <Property Name="Trigger_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Trigger_Trigger" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TriggerEvent">
+    <Key>
+      <PropertyRef Name="TriggerEvent_ID" />
+    </Key>
+    <Property Name="TriggerEvent_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TriggerTypeId" Type="int" />
+    <Property Name="TriggerEvent_Day" Type="varchar" MaxLength="50" />
+    <Property Name="TriggerEvent_Event" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TriggerType">
+    <Key>
+      <PropertyRef Name="TriggerType_ID" />
+    </Key>
+    <Property Name="TriggerType_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TriggerType_Type" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Name" Type="varchar" MaxLength="100" />
+    <Property Name="Password" Type="varchar" MaxLength="100" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="100" />
+    <Property Name="Role_Id" Type="int" />
+    <Property Name="User_PhoneNumber" Type="nvarchar" MaxLength="100" />
+    <Property Name="MobileNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="Notes" Type="varchar(max)" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="EnrollmentDate" Type="datetime" />
+    <Property Name="LastLoggedIn" Type="datetime" />
+    <Property Name="StatusId" Type="int" />
+  </EntityType>
+  <EntityType Name="UserEnrollment">
+    <Key>
+      <PropertyRef Name="UserEnrollmentId" />
+    </Key>
+    <Property Name="UserEnrollmentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TriggerEventId" Type="int" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="Status" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="UserStatus">
+    <Key>
+      <PropertyRef Name="StatusId" />
+    </Key>
+    <Property Name="StatusId" Type="int" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_ScheduleMessage_TriggerType">
+    <End Role="TriggerType" Type="Self.TriggerType" Multiplicity="0..1" />
+    <End Role="ScheduleMessage" Type="Self.ScheduleMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TriggerType">
+        <PropertyRef Name="TriggerType_ID" />
+      </Principal>
+      <Dependent Role="ScheduleMessage">
+        <PropertyRef Name="ScheduleMessage_TriggerTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DevinTwilioModelStoreContainer">
+    <EntitySet Name="Appointment" EntityType="Self.Appointment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AppointmentProvider" EntityType="Self.AppointmentProvider" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AppointmentType" EntityType="Self.AppointmentType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DashboardText" EntityType="Self.DashboardText" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Message" EntityType="Self.Message" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MMDomain" EntityType="Self.MMDomain" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MMSubDomain" EntityType="Self.MMSubDomain" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Provider" EntityType="Self.Provider" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ScheduleMessage" EntityType="Self.ScheduleMessage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SmsReply" EntityType="Self.SmsReply" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StageInTX" EntityType="Self.StageInTX" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Trigger" EntityType="Self.Trigger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TriggerEvent" EntityType="Self.TriggerEvent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TriggerType" EntityType="Self.TriggerType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserEnrollment" EntityType="Self.UserEnrollment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserStatus" EntityType="Self.UserStatus" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ScheduleMessage_TriggerType" Association="Self.FK_ScheduleMessage_TriggerType">
+      <End Role="TriggerType" EntitySet="TriggerType" />
+      <End Role="ScheduleMessage" EntitySet="ScheduleMessage" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

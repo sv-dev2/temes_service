@@ -1,0 +1,3235 @@
+2/5/2018 6:18:48 PM: Devin Window service started
+2/5/2018 6:18:58 PM: Timer 1 has been started.
+2/5/2018 6:18:58 PM: Inside Send Scheduled Messages
+2/5/2018 6:18:59 PM: day diff:-31
+2/5/2018 6:18:59 PM: calculatedTime:6PM
+2/5/2018 6:18:59 PM: setTime:9am
+2/5/2018 6:18:59 PM: day diff:-5
+2/5/2018 6:18:59 PM: calculatedTime:6PM
+2/5/2018 6:18:59 PM: setTime:9am
+2/5/2018 6:18:59 PM: day diff:17
+2/5/2018 6:18:59 PM: calculatedTime:6PM
+2/5/2018 6:18:59 PM: setTime:9am
+2/5/2018 6:18:59 PM: day diff:-10
+2/5/2018 6:18:59 PM: calculatedTime:6PM
+2/5/2018 6:18:59 PM: setTime:9am
+2/5/2018 6:18:59 PM: day diff:-5
+2/5/2018 6:18:59 PM: calculatedTime:6PM
+2/5/2018 6:18:59 PM: setTime:9am
+2/5/2018 6:19:02 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:02 PM: Successfully send message for scheduled
+2/5/2018 6:19:02 PM:  scheduled days: 11
+2/5/2018 6:19:02 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:02 PM: Successfully send message for scheduled
+2/5/2018 6:19:02 PM:  scheduled days: -16
+2/5/2018 6:19:02 PM:  scheduled days: -17
+2/5/2018 6:19:08 PM: Timer 2 has been started.
+2/5/2018 6:19:08 PM: day diff:17
+2/5/2018 6:19:08 PM:  scheduled days: -19
+2/5/2018 6:19:08 PM:  scheduled days: 27
+2/5/2018 6:19:08 PM:  scheduled days: 6
+2/5/2018 6:19:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:09 PM: Successfully send message for scheduled
+2/5/2018 6:19:09 PM:  scheduled days: 11
+2/5/2018 6:19:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:10 PM: Successfully send message for scheduled
+2/5/2018 6:19:10 PM:  scheduled days: -16
+2/5/2018 6:19:10 PM:  scheduled days: -17
+2/5/2018 6:19:18 PM: Timer 2 has been started.
+2/5/2018 6:19:18 PM: day diff:17
+2/5/2018 6:19:18 PM: calculatedTime:6PM
+2/5/2018 6:19:18 PM: setTime:9am
+2/5/2018 6:19:18 PM: day diff:-10
+2/5/2018 6:19:18 PM: calculatedTime:6PM
+2/5/2018 6:19:18 PM: setTime:9am
+2/5/2018 6:19:19 PM: day diff:-5
+2/5/2018 6:19:19 PM: calculatedTime:6PM
+2/5/2018 6:19:19 PM: setTime:9am
+2/5/2018 6:19:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:19 PM: Successfully send message for scheduled
+2/5/2018 6:19:19 PM:  scheduled days: 11
+2/5/2018 6:19:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:19:20 PM: Successfully send message for scheduled
+2/5/2018 6:19:20 PM:  scheduled days: -16
+2/5/2018 6:19:20 PM:  scheduled days: -17
+2/5/2018 6:19:22 PM: Devin Window service stopped
+2/5/2018 6:23:18 PM: Devin Window service started
+2/5/2018 6:23:28 PM: Timer 2 has been started.
+2/5/2018 6:23:28 PM: Inside Send Scheduled Messages
+2/5/2018 6:23:29 PM: Appointment to +19177481048
+2/5/2018 6:23:29 PM: Appointment from +16467591379
+2/5/2018 6:23:29 PM: currentAppointmentDate 1/5/2018 10:01:00 AM
+2/5/2018 6:23:29 PM: currentDate 2/5/2018 6:23:29 PM
+2/5/2018 6:23:29 PM: day diff:-31
+2/5/2018 6:23:29 PM: Current Date: 2/5/2018 6:23:29 PM
+2/5/2018 6:23:29 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:23:29 PM:  scheduled days: 6
+2/5/2018 6:23:29 PM: Inside total days comparison
+2/5/2018 6:23:32 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:32 PM: Successfully send message for scheduled
+2/5/2018 6:23:32 PM: Inside Patient loop
+2/5/2018 6:23:32 PM: To Number: +19023387215
+2/5/2018 6:23:32 PM: From Number: +16467591379
+2/5/2018 6:23:32 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:32 PM: Current Date: 2/5/2018 6:23:32 PM
+2/5/2018 6:23:32 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:32 PM:  scheduled days: 11
+2/5/2018 6:23:32 PM: Inside total days comparison
+2/5/2018 6:23:33 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:33 PM: Successfully send message for scheduled
+2/5/2018 6:23:33 PM: Inside Patient loop
+2/5/2018 6:23:33 PM: To Number: +18375988301
+2/5/2018 6:23:33 PM: From Number: +16467591379
+2/5/2018 6:23:33 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:33 PM: Current Date: 2/5/2018 6:23:33 PM
+2/5/2018 6:23:33 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:33 PM:  scheduled days: -16
+2/5/2018 6:23:33 PM: Inside Patient loop
+2/5/2018 6:23:33 PM: To Number: +18375988304
+2/5/2018 6:23:33 PM: From Number: +16467591379
+2/5/2018 6:23:33 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:33 PM: Current Date: 2/5/2018 6:23:33 PM
+2/5/2018 6:23:33 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:33 PM:  scheduled days: -17
+2/5/2018 6:23:38 PM: Timer 2 has been started.
+2/5/2018 6:23:38 PM: Inside Send Scheduled Messages
+2/5/2018 6:23:38 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:23:38 PM: currentDate 2/5/2018 6:23:38 PM
+2/5/2018 6:23:38 PM: day diff:17
+2/5/2018 6:23:38 PM: calculatedTime:6PM
+2/5/2018 6:23:38 PM: setTime:9am
+2/5/2018 6:23:38 PM: Appointment to +917986501164
+2/5/2018 6:23:38 PM: Appointment from +16467591379
+2/5/2018 6:23:38 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:23:38 PM: currentDate 2/5/2018 6:23:38 PM
+2/5/2018 6:23:38 PM: day diff:-10
+2/5/2018 6:23:38 PM: calculatedTime:6PM
+2/5/2018 6:23:38 PM: setTime:9am
+2/5/2018 6:23:38 PM: Appointment to +917986501164
+2/5/2018 6:23:38 PM: Appointment from +16467591379
+2/5/2018 6:23:38 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:23:38 PM: currentDate 2/5/2018 6:23:38 PM
+2/5/2018 6:23:38 PM: day diff:-5
+2/5/2018 6:23:38 PM: calculatedTime:6PM
+2/5/2018 6:23:38 PM: setTime:9am
+2/5/2018 6:23:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:39 PM: Successfully send message for scheduled
+2/5/2018 6:23:39 PM: Inside Patient loop
+2/5/2018 6:23:39 PM: To Number: +19023387215
+2/5/2018 6:23:39 PM: From Number: +16467591379
+2/5/2018 6:23:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:39 PM: Current Date: 2/5/2018 6:23:39 PM
+2/5/2018 6:23:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:39 PM:  scheduled days: 11
+2/5/2018 6:23:39 PM: Inside total days comparison
+2/5/2018 6:23:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:40 PM: Successfully send message for scheduled
+2/5/2018 6:23:40 PM: Inside Patient loop
+2/5/2018 6:23:40 PM: To Number: +18375988301
+2/5/2018 6:23:40 PM: From Number: +16467591379
+2/5/2018 6:23:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:40 PM: Current Date: 2/5/2018 6:23:40 PM
+2/5/2018 6:23:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:40 PM:  scheduled days: -16
+2/5/2018 6:23:40 PM: Inside Patient loop
+2/5/2018 6:23:40 PM: To Number: +18375988304
+2/5/2018 6:23:40 PM: From Number: +16467591379
+2/5/2018 6:23:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:40 PM: Current Date: 2/5/2018 6:23:40 PM
+2/5/2018 6:23:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:40 PM:  scheduled days: -17
+2/5/2018 6:23:48 PM: Timer 2 has been started.
+2/5/2018 6:23:48 PM: Inside Send Scheduled Messages
+2/5/2018 6:23:48 PM: Inside Patient loop
+2/5/2018 6:23:48 PM: To Number: +917986501164
+2/5/2018 6:23:48 PM: From Number: +16467591379
+2/5/2018 6:23:48 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:23:48 PM: Current Date: 2/5/2018 6:23:48 PM
+2/5/2018 6:23:48 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:23:48 PM:  scheduled days: -19
+2/5/2018 6:23:48 PM: Inside Patient loop
+2/5/2018 6:23:48 PM: To Number: +11234567891
+2/5/2018 6:23:48 PM: From Number: +16467591379
+2/5/2018 6:23:48 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:23:48 PM: Current Date: 2/5/2018 6:23:48 PM
+2/5/2018 6:23:48 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:23:48 PM:  scheduled days: 27
+2/5/2018 6:23:49 PM: Inside total days comparison
+2/5/2018 6:23:49 PM: Inside Patient loop
+2/5/2018 6:23:49 PM: To Number: +19177481048
+2/5/2018 6:23:49 PM: From Number: +16467591379
+2/5/2018 6:23:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:23:49 PM: Current Date: 2/5/2018 6:23:49 PM
+2/5/2018 6:23:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:23:49 PM:  scheduled days: 6
+2/5/2018 6:23:49 PM: Inside total days comparison
+2/5/2018 6:23:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:49 PM: Successfully send message for scheduled
+2/5/2018 6:23:49 PM: Inside Patient loop
+2/5/2018 6:23:49 PM: To Number: +19023387215
+2/5/2018 6:23:49 PM: From Number: +16467591379
+2/5/2018 6:23:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:49 PM: Current Date: 2/5/2018 6:23:49 PM
+2/5/2018 6:23:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:49 PM:  scheduled days: 11
+2/5/2018 6:23:49 PM: Inside total days comparison
+2/5/2018 6:23:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:50 PM: Successfully send message for scheduled
+2/5/2018 6:23:50 PM: Inside Patient loop
+2/5/2018 6:23:50 PM: To Number: +18375988301
+2/5/2018 6:23:50 PM: From Number: +16467591379
+2/5/2018 6:23:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:50 PM: Current Date: 2/5/2018 6:23:50 PM
+2/5/2018 6:23:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:23:50 PM:  scheduled days: -16
+2/5/2018 6:23:50 PM: Inside Patient loop
+2/5/2018 6:23:50 PM: To Number: +18375988304
+2/5/2018 6:23:50 PM: From Number: +16467591379
+2/5/2018 6:23:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:50 PM: Current Date: 2/5/2018 6:23:50 PM
+2/5/2018 6:23:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:23:50 PM:  scheduled days: -17
+2/5/2018 6:23:58 PM: Timer 2 has been started.
+2/5/2018 6:23:58 PM: Appointment from +16467591379
+2/5/2018 6:23:58 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:23:58 PM: Current Date: 2/5/2018 6:23:58 PM
+2/5/2018 6:23:58 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:23:58 PM:  scheduled days: -19
+2/5/2018 6:23:58 PM: Inside Patient loop
+2/5/2018 6:23:58 PM: To Number: +11234567891
+2/5/2018 6:23:58 PM: From Number: +16467591379
+2/5/2018 6:23:58 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:23:58 PM: Current Date: 2/5/2018 6:23:58 PM
+2/5/2018 6:23:58 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:23:58 PM:  scheduled days: 27
+2/5/2018 6:23:58 PM: Inside total days comparison
+2/5/2018 6:23:58 PM: Inside Patient loop
+2/5/2018 6:23:58 PM: To Number: +19177481048
+2/5/2018 6:23:58 PM: From Number: +16467591379
+2/5/2018 6:23:59 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:23:59 PM: Current Date: 2/5/2018 6:23:59 PM
+2/5/2018 6:23:59 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:23:59 PM:  scheduled days: 6
+2/5/2018 6:23:59 PM: Inside total days comparison
+2/5/2018 6:23:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:23:59 PM: Successfully send message for scheduled
+2/5/2018 6:23:59 PM: Inside Patient loop
+2/5/2018 6:23:59 PM: To Number: +19023387215
+2/5/2018 6:23:59 PM: From Number: +16467591379
+2/5/2018 6:23:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:59 PM: Current Date: 2/5/2018 6:23:59 PM
+2/5/2018 6:23:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:23:59 PM:  scheduled days: 11
+2/5/2018 6:23:59 PM: Inside total days comparison
+2/5/2018 6:24:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:00 PM: Successfully send message for scheduled
+2/5/2018 6:24:00 PM: Inside Patient loop
+2/5/2018 6:24:00 PM: To Number: +18375988301
+2/5/2018 6:24:00 PM: From Number: +16467591379
+2/5/2018 6:24:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:00 PM: Current Date: 2/5/2018 6:24:00 PM
+2/5/2018 6:24:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:00 PM:  scheduled days: -16
+2/5/2018 6:24:00 PM: Inside Patient loop
+2/5/2018 6:24:00 PM: To Number: +18375988304
+2/5/2018 6:24:00 PM: From Number: +16467591379
+2/5/2018 6:24:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:00 PM: Current Date: 2/5/2018 6:24:00 PM
+2/5/2018 6:24:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:00 PM:  scheduled days: -17
+2/5/2018 6:24:08 PM: Timer 2 has been started.
+2/5/2018 6:24:08 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:08 PM: Current Date: 2/5/2018 6:24:08 PM
+2/5/2018 6:24:08 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:24:08 PM:  scheduled days: -19
+2/5/2018 6:24:08 PM: Inside Patient loop
+2/5/2018 6:24:08 PM: To Number: +11234567891
+2/5/2018 6:24:08 PM: From Number: +16467591379
+2/5/2018 6:24:08 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:08 PM: Current Date: 2/5/2018 6:24:08 PM
+2/5/2018 6:24:08 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:08 PM:  scheduled days: 27
+2/5/2018 6:24:08 PM: Inside total days comparison
+2/5/2018 6:24:08 PM: Inside Patient loop
+2/5/2018 6:24:08 PM: To Number: +19177481048
+2/5/2018 6:24:08 PM: From Number: +16467591379
+2/5/2018 6:24:08 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:08 PM: Current Date: 2/5/2018 6:24:08 PM
+2/5/2018 6:24:08 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:09 PM:  scheduled days: 6
+2/5/2018 6:24:09 PM: Inside total days comparison
+2/5/2018 6:24:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:09 PM: Successfully send message for scheduled
+2/5/2018 6:24:09 PM: Inside Patient loop
+2/5/2018 6:24:09 PM: To Number: +19023387215
+2/5/2018 6:24:09 PM: From Number: +16467591379
+2/5/2018 6:24:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:09 PM: Current Date: 2/5/2018 6:24:09 PM
+2/5/2018 6:24:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:09 PM:  scheduled days: 11
+2/5/2018 6:24:09 PM: Inside total days comparison
+2/5/2018 6:24:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:10 PM: Successfully send message for scheduled
+2/5/2018 6:24:10 PM: Inside Patient loop
+2/5/2018 6:24:10 PM: To Number: +18375988301
+2/5/2018 6:24:10 PM: From Number: +16467591379
+2/5/2018 6:24:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:10 PM: Current Date: 2/5/2018 6:24:10 PM
+2/5/2018 6:24:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:10 PM:  scheduled days: -16
+2/5/2018 6:24:10 PM: Inside Patient loop
+2/5/2018 6:24:10 PM: To Number: +18375988304
+2/5/2018 6:24:10 PM: From Number: +16467591379
+2/5/2018 6:24:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:10 PM: Current Date: 2/5/2018 6:24:10 PM
+2/5/2018 6:24:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:10 PM:  scheduled days: -17
+2/5/2018 6:24:18 PM: Timer 2 has been started.
+2/5/2018 6:24:18 PM: Inside Send Scheduled Messages
+2/5/2018 6:24:18 PM: Inside Patient loop
+2/5/2018 6:24:18 PM: To Number: +917986501164
+2/5/2018 6:24:18 PM: From Number: +16467591379
+2/5/2018 6:24:18 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:24:18 PM: Current Date: 2/5/2018 6:24:18 PM
+2/5/2018 6:24:18 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:24:18 PM:  scheduled days: -19
+2/5/2018 6:24:18 PM: Inside Patient loop
+2/5/2018 6:24:18 PM: To Number: +11234567891
+2/5/2018 6:24:18 PM: From Number: +16467591379
+2/5/2018 6:24:18 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:18 PM: Current Date: 2/5/2018 6:24:18 PM
+2/5/2018 6:24:18 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:18 PM:  scheduled days: 27
+2/5/2018 6:24:18 PM: Inside total days comparison
+2/5/2018 6:24:18 PM: Inside Patient loop
+2/5/2018 6:24:19 PM: To Number: +19177481048
+2/5/2018 6:24:19 PM: From Number: +16467591379
+2/5/2018 6:24:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:19 PM: Current Date: 2/5/2018 6:24:19 PM
+2/5/2018 6:24:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:19 PM:  scheduled days: 6
+2/5/2018 6:24:19 PM: Inside total days comparison
+2/5/2018 6:24:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:19 PM: Successfully send message for scheduled
+2/5/2018 6:24:19 PM: Inside Patient loop
+2/5/2018 6:24:19 PM: To Number: +19023387215
+2/5/2018 6:24:19 PM: From Number: +16467591379
+2/5/2018 6:24:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:19 PM: Current Date: 2/5/2018 6:24:19 PM
+2/5/2018 6:24:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:19 PM:  scheduled days: 11
+2/5/2018 6:24:19 PM: Inside total days comparison
+2/5/2018 6:24:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:20 PM: Successfully send message for scheduled
+2/5/2018 6:24:20 PM: Inside Patient loop
+2/5/2018 6:24:20 PM: To Number: +18375988301
+2/5/2018 6:24:20 PM: From Number: +16467591379
+2/5/2018 6:24:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:20 PM: Current Date: 2/5/2018 6:24:20 PM
+2/5/2018 6:24:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:20 PM:  scheduled days: -16
+2/5/2018 6:24:20 PM: Inside Patient loop
+2/5/2018 6:24:20 PM: To Number: +18375988304
+2/5/2018 6:24:20 PM: From Number: +16467591379
+2/5/2018 6:24:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:20 PM: Current Date: 2/5/2018 6:24:20 PM
+2/5/2018 6:24:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:20 PM:  scheduled days: -17
+2/5/2018 6:24:28 PM: Timer 2 has been started.
+2/5/2018 6:24:28 PM: day diff:-5
+2/5/2018 6:24:28 PM: calculatedTime:6PM
+2/5/2018 6:24:28 PM: setTime:9am
+2/5/2018 6:24:28 PM: Appointment to +18375988301
+2/5/2018 6:24:28 PM: Appointment from +16467591379
+2/5/2018 6:24:28 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:24:28 PM: currentDate 2/5/2018 6:24:28 PM
+2/5/2018 6:24:28 PM: day diff:17
+2/5/2018 6:24:28 PM: calculatedTime:6PM
+2/5/2018 6:24:28 PM: setTime:9am
+2/5/2018 6:24:28 PM: Appointment to +917986501164
+2/5/2018 6:24:28 PM: Appointment from +16467591379
+2/5/2018 6:24:28 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:24:28 PM: currentDate 2/5/2018 6:24:28 PM
+2/5/2018 6:24:28 PM: day diff:-10
+2/5/2018 6:24:28 PM: calculatedTime:6PM
+2/5/2018 6:24:29 PM: setTime:9am
+2/5/2018 6:24:29 PM: Appointment to +917986501164
+2/5/2018 6:24:29 PM: Appointment from +16467591379
+2/5/2018 6:24:29 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:29 PM: currentDate 2/5/2018 6:24:29 PM
+2/5/2018 6:24:29 PM: day diff:-5
+2/5/2018 6:24:29 PM: calculatedTime:6PM
+2/5/2018 6:24:29 PM: setTime:9am
+2/5/2018 6:24:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:29 PM: Successfully send message for scheduled
+2/5/2018 6:24:29 PM: Inside Patient loop
+2/5/2018 6:24:29 PM: To Number: +19023387215
+2/5/2018 6:24:29 PM: From Number: +16467591379
+2/5/2018 6:24:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:29 PM: Current Date: 2/5/2018 6:24:29 PM
+2/5/2018 6:24:29 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:29 PM:  scheduled days: 11
+2/5/2018 6:24:29 PM: Inside total days comparison
+2/5/2018 6:24:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:30 PM: Successfully send message for scheduled
+2/5/2018 6:24:30 PM: Inside Patient loop
+2/5/2018 6:24:30 PM: To Number: +18375988301
+2/5/2018 6:24:30 PM: From Number: +16467591379
+2/5/2018 6:24:30 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:30 PM: Current Date: 2/5/2018 6:24:30 PM
+2/5/2018 6:24:30 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:30 PM:  scheduled days: -16
+2/5/2018 6:24:30 PM: Inside Patient loop
+2/5/2018 6:24:30 PM: To Number: +18375988304
+2/5/2018 6:24:30 PM: From Number: +16467591379
+2/5/2018 6:24:30 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:30 PM: Current Date: 2/5/2018 6:24:30 PM
+2/5/2018 6:24:30 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:30 PM:  scheduled days: -17
+2/5/2018 6:24:38 PM: Timer 1 has been started.
+2/5/2018 6:24:38 PM: Inside Send Appointment Messages
+2/5/2018 6:24:38 PM: To Number: +11234567891
+2/5/2018 6:24:38 PM: currentDate 2/5/2018 6:24:38 PM
+2/5/2018 6:24:38 PM: day diff:-31
+2/5/2018 6:24:38 PM: calculatedTime:6PM
+2/5/2018 6:24:38 PM: setTime:9am
+2/5/2018 6:24:38 PM: Appointment to +19023387215
+2/5/2018 6:24:38 PM: Appointment from +16467591379
+2/5/2018 6:24:38 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:38 PM: currentDate 2/5/2018 6:24:38 PM
+2/5/2018 6:24:38 PM: day diff:-5
+2/5/2018 6:24:38 PM: calculatedTime:6PM
+2/5/2018 6:24:38 PM: setTime:9am
+2/5/2018 6:24:38 PM: Appointment to +18375988301
+2/5/2018 6:24:38 PM: Appointment from +16467591379
+2/5/2018 6:24:38 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:24:38 PM: currentDate 2/5/2018 6:24:38 PM
+2/5/2018 6:24:38 PM: day diff:17
+2/5/2018 6:24:38 PM: calculatedTime:6PM
+2/5/2018 6:24:38 PM: setTime:9am
+2/5/2018 6:24:38 PM: Appointment to +917986501164
+2/5/2018 6:24:38 PM: Appointment from +16467591379
+2/5/2018 6:24:38 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:24:38 PM: currentDate 2/5/2018 6:24:38 PM
+2/5/2018 6:24:39 PM: day diff:-10
+2/5/2018 6:24:39 PM: calculatedTime:6PM
+2/5/2018 6:24:39 PM: setTime:9am
+2/5/2018 6:24:39 PM: Appointment to +917986501164
+2/5/2018 6:24:39 PM: Appointment from +16467591379
+2/5/2018 6:24:39 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:39 PM: currentDate 2/5/2018 6:24:39 PM
+2/5/2018 6:24:39 PM: day diff:-5
+2/5/2018 6:24:39 PM: calculatedTime:6PM
+2/5/2018 6:24:39 PM: setTime:9am
+2/5/2018 6:24:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:39 PM: Successfully send message for scheduled
+2/5/2018 6:24:39 PM: Inside Patient loop
+2/5/2018 6:24:39 PM: To Number: +19023387215
+2/5/2018 6:24:39 PM: From Number: +16467591379
+2/5/2018 6:24:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:39 PM: Current Date: 2/5/2018 6:24:39 PM
+2/5/2018 6:24:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:39 PM:  scheduled days: 11
+2/5/2018 6:24:39 PM: Inside total days comparison
+2/5/2018 6:24:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:40 PM: Successfully send message for scheduled
+2/5/2018 6:24:40 PM: Inside Patient loop
+2/5/2018 6:24:40 PM: To Number: +18375988301
+2/5/2018 6:24:40 PM: From Number: +16467591379
+2/5/2018 6:24:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:40 PM: Current Date: 2/5/2018 6:24:40 PM
+2/5/2018 6:24:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:40 PM:  scheduled days: -16
+2/5/2018 6:24:40 PM: Inside Patient loop
+2/5/2018 6:24:40 PM: To Number: +18375988304
+2/5/2018 6:24:40 PM: From Number: +16467591379
+2/5/2018 6:24:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:40 PM: Current Date: 2/5/2018 6:24:40 PM
+2/5/2018 6:24:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:40 PM:  scheduled days: -17
+2/5/2018 6:24:48 PM: Timer 2 has been started.
+2/5/2018 6:24:48 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:48 PM: Inside Patient loop
+2/5/2018 6:24:48 PM: To Number: +917986501164
+2/5/2018 6:24:48 PM: From Number: +16467591379
+2/5/2018 6:24:48 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:24:48 PM: Current Date: 2/5/2018 6:24:48 PM
+2/5/2018 6:24:48 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:24:48 PM:  scheduled days: -19
+2/5/2018 6:24:48 PM: Inside Patient loop
+2/5/2018 6:24:48 PM: To Number: +11234567891
+2/5/2018 6:24:49 PM: From Number: +16467591379
+2/5/2018 6:24:49 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:49 PM: Current Date: 2/5/2018 6:24:49 PM
+2/5/2018 6:24:49 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:24:49 PM:  scheduled days: 27
+2/5/2018 6:24:49 PM: Inside total days comparison
+2/5/2018 6:24:49 PM: Inside Patient loop
+2/5/2018 6:24:49 PM: To Number: +19177481048
+2/5/2018 6:24:49 PM: From Number: +16467591379
+2/5/2018 6:24:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:49 PM: Current Date: 2/5/2018 6:24:49 PM
+2/5/2018 6:24:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:24:49 PM:  scheduled days: 6
+2/5/2018 6:24:49 PM: Inside total days comparison
+2/5/2018 6:24:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:49 PM: Successfully send message for scheduled
+2/5/2018 6:24:49 PM: Inside Patient loop
+2/5/2018 6:24:49 PM: To Number: +19023387215
+2/5/2018 6:24:49 PM: From Number: +16467591379
+2/5/2018 6:24:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:49 PM: Current Date: 2/5/2018 6:24:49 PM
+2/5/2018 6:24:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:49 PM:  scheduled days: 11
+2/5/2018 6:24:49 PM: Inside total days comparison
+2/5/2018 6:24:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:50 PM: Successfully send message for scheduled
+2/5/2018 6:24:50 PM: Inside Patient loop
+2/5/2018 6:24:50 PM: To Number: +18375988301
+2/5/2018 6:24:50 PM: From Number: +16467591379
+2/5/2018 6:24:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:50 PM: Current Date: 2/5/2018 6:24:50 PM
+2/5/2018 6:24:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:24:50 PM:  scheduled days: -16
+2/5/2018 6:24:50 PM: Inside Patient loop
+2/5/2018 6:24:50 PM: To Number: +18375988304
+2/5/2018 6:24:50 PM: From Number: +16467591379
+2/5/2018 6:24:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:50 PM: Current Date: 2/5/2018 6:24:50 PM
+2/5/2018 6:24:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:24:50 PM:  scheduled days: -17
+2/5/2018 6:24:58 PM: Timer 2 has been started.
+2/5/2018 6:24:58 PM: calculatedTime:6PM
+2/5/2018 6:24:58 PM: setTime:9am
+2/5/2018 6:24:58 PM: Appointment to +19023387215
+2/5/2018 6:24:58 PM: Appointment from +16467591379
+2/5/2018 6:24:58 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:58 PM: currentDate 2/5/2018 6:24:58 PM
+2/5/2018 6:24:58 PM: day diff:-5
+2/5/2018 6:24:58 PM: calculatedTime:6PM
+2/5/2018 6:24:58 PM: setTime:9am
+2/5/2018 6:24:58 PM: Appointment to +18375988301
+2/5/2018 6:24:58 PM: Appointment from +16467591379
+2/5/2018 6:24:58 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:24:58 PM: currentDate 2/5/2018 6:24:58 PM
+2/5/2018 6:24:58 PM: day diff:17
+2/5/2018 6:24:58 PM: calculatedTime:6PM
+2/5/2018 6:24:59 PM: setTime:9am
+2/5/2018 6:24:59 PM: Appointment to +917986501164
+2/5/2018 6:24:59 PM: Appointment from +16467591379
+2/5/2018 6:24:59 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:24:59 PM: currentDate 2/5/2018 6:24:59 PM
+2/5/2018 6:24:59 PM: day diff:-10
+2/5/2018 6:24:59 PM: calculatedTime:6PM
+2/5/2018 6:24:59 PM: setTime:9am
+2/5/2018 6:24:59 PM: Appointment to +917986501164
+2/5/2018 6:24:59 PM: Appointment from +16467591379
+2/5/2018 6:24:59 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:24:59 PM: currentDate 2/5/2018 6:24:59 PM
+2/5/2018 6:24:59 PM: day diff:-5
+2/5/2018 6:24:59 PM: calculatedTime:6PM
+2/5/2018 6:24:59 PM: setTime:9am
+2/5/2018 6:24:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:24:59 PM: Successfully send message for scheduled
+2/5/2018 6:24:59 PM: Inside Patient loop
+2/5/2018 6:24:59 PM: To Number: +19023387215
+2/5/2018 6:24:59 PM: From Number: +16467591379
+2/5/2018 6:24:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:59 PM: Current Date: 2/5/2018 6:24:59 PM
+2/5/2018 6:24:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:24:59 PM:  scheduled days: 11
+2/5/2018 6:24:59 PM: Inside total days comparison
+2/5/2018 6:25:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:00 PM: Successfully send message for scheduled
+2/5/2018 6:25:00 PM: Inside Patient loop
+2/5/2018 6:25:00 PM: To Number: +18375988301
+2/5/2018 6:25:00 PM: From Number: +16467591379
+2/5/2018 6:25:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:00 PM: Current Date: 2/5/2018 6:25:00 PM
+2/5/2018 6:25:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:00 PM:  scheduled days: -16
+2/5/2018 6:25:00 PM: Inside Patient loop
+2/5/2018 6:25:00 PM: To Number: +18375988304
+2/5/2018 6:25:00 PM: From Number: +16467591379
+2/5/2018 6:25:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:00 PM: Current Date: 2/5/2018 6:25:00 PM
+2/5/2018 6:25:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:00 PM:  scheduled days: -17
+2/5/2018 6:25:08 PM: Timer 2 has been started.
+2/5/2018 6:25:08 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:08 PM: currentDate 2/5/2018 6:25:08 PM
+2/5/2018 6:25:08 PM: day diff:-5
+2/5/2018 6:25:08 PM: calculatedTime:6PM
+2/5/2018 6:25:08 PM: setTime:9am
+2/5/2018 6:25:08 PM: Appointment to +18375988301
+2/5/2018 6:25:08 PM: Appointment from +16467591379
+2/5/2018 6:25:08 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:25:08 PM: currentDate 2/5/2018 6:25:08 PM
+2/5/2018 6:25:08 PM: day diff:17
+2/5/2018 6:25:08 PM: calculatedTime:6PM
+2/5/2018 6:25:08 PM: setTime:9am
+2/5/2018 6:25:09 PM: Appointment to +917986501164
+2/5/2018 6:25:09 PM: Appointment from +16467591379
+2/5/2018 6:25:09 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:25:09 PM: currentDate 2/5/2018 6:25:09 PM
+2/5/2018 6:25:09 PM: day diff:-10
+2/5/2018 6:25:09 PM: calculatedTime:6PM
+2/5/2018 6:25:09 PM: setTime:9am
+2/5/2018 6:25:09 PM: Appointment to +917986501164
+2/5/2018 6:25:09 PM: Appointment from +16467591379
+2/5/2018 6:25:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:09 PM: currentDate 2/5/2018 6:25:09 PM
+2/5/2018 6:25:09 PM: day diff:-5
+2/5/2018 6:25:09 PM: calculatedTime:6PM
+2/5/2018 6:25:09 PM: setTime:9am
+2/5/2018 6:25:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:09 PM: Successfully send message for scheduled
+2/5/2018 6:25:09 PM: Inside Patient loop
+2/5/2018 6:25:09 PM: To Number: +19023387215
+2/5/2018 6:25:09 PM: From Number: +16467591379
+2/5/2018 6:25:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:09 PM: Current Date: 2/5/2018 6:25:09 PM
+2/5/2018 6:25:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:09 PM:  scheduled days: 11
+2/5/2018 6:25:09 PM: Inside total days comparison
+2/5/2018 6:25:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:10 PM: Successfully send message for scheduled
+2/5/2018 6:25:10 PM: Inside Patient loop
+2/5/2018 6:25:10 PM: To Number: +18375988301
+2/5/2018 6:25:10 PM: From Number: +16467591379
+2/5/2018 6:25:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:10 PM: Current Date: 2/5/2018 6:25:10 PM
+2/5/2018 6:25:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:10 PM:  scheduled days: -16
+2/5/2018 6:25:10 PM: Inside Patient loop
+2/5/2018 6:25:10 PM: To Number: +18375988304
+2/5/2018 6:25:10 PM: From Number: +16467591379
+2/5/2018 6:25:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:10 PM: Current Date: 2/5/2018 6:25:10 PM
+2/5/2018 6:25:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:10 PM:  scheduled days: -17
+2/5/2018 6:25:18 PM: Timer 2 has been started.
+2/5/2018 6:25:18 PM: Inside Send Scheduled Messages
+2/5/2018 6:25:18 PM: Inside Patient loop
+2/5/2018 6:25:18 PM: To Number: +917986501164
+2/5/2018 6:25:18 PM: From Number: +16467591379
+2/5/2018 6:25:18 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:25:18 PM: Current Date: 2/5/2018 6:25:18 PM
+2/5/2018 6:25:18 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:25:18 PM:  scheduled days: -19
+2/5/2018 6:25:18 PM: Inside Patient loop
+2/5/2018 6:25:18 PM: To Number: +11234567891
+2/5/2018 6:25:18 PM: From Number: +16467591379
+2/5/2018 6:25:18 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:18 PM: Current Date: 2/5/2018 6:25:18 PM
+2/5/2018 6:25:19 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:19 PM:  scheduled days: 27
+2/5/2018 6:25:19 PM: Inside total days comparison
+2/5/2018 6:25:19 PM: Inside Patient loop
+2/5/2018 6:25:19 PM: To Number: +19177481048
+2/5/2018 6:25:19 PM: From Number: +16467591379
+2/5/2018 6:25:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:19 PM: Current Date: 2/5/2018 6:25:19 PM
+2/5/2018 6:25:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:19 PM:  scheduled days: 6
+2/5/2018 6:25:19 PM: Inside total days comparison
+2/5/2018 6:25:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:19 PM: Successfully send message for scheduled
+2/5/2018 6:25:19 PM: Inside Patient loop
+2/5/2018 6:25:19 PM: To Number: +19023387215
+2/5/2018 6:25:19 PM: From Number: +16467591379
+2/5/2018 6:25:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:19 PM: Current Date: 2/5/2018 6:25:19 PM
+2/5/2018 6:25:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:19 PM:  scheduled days: 11
+2/5/2018 6:25:19 PM: Inside total days comparison
+2/5/2018 6:25:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:20 PM: Successfully send message for scheduled
+2/5/2018 6:25:20 PM: Inside Patient loop
+2/5/2018 6:25:20 PM: To Number: +18375988301
+2/5/2018 6:25:20 PM: From Number: +16467591379
+2/5/2018 6:25:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:20 PM: Current Date: 2/5/2018 6:25:20 PM
+2/5/2018 6:25:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:20 PM:  scheduled days: -16
+2/5/2018 6:25:20 PM: Inside Patient loop
+2/5/2018 6:25:20 PM: To Number: +18375988304
+2/5/2018 6:25:20 PM: From Number: +16467591379
+2/5/2018 6:25:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:20 PM: Current Date: 2/5/2018 6:25:20 PM
+2/5/2018 6:25:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:20 PM:  scheduled days: -17
+2/5/2018 6:25:28 PM: Timer 2 has been started.
+2/5/2018 6:25:28 PM: Inside Send Scheduled Messages
+2/5/2018 6:25:28 PM: calculatedTime:6PM
+2/5/2018 6:25:28 PM: Current Date: 2/5/2018 6:25:28 PM
+2/5/2018 6:25:28 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:25:28 PM:  scheduled days: -19
+2/5/2018 6:25:28 PM: Inside Patient loop
+2/5/2018 6:25:28 PM: To Number: +11234567891
+2/5/2018 6:25:28 PM: From Number: +16467591379
+2/5/2018 6:25:28 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:28 PM: Current Date: 2/5/2018 6:25:28 PM
+2/5/2018 6:25:28 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:28 PM:  scheduled days: 27
+2/5/2018 6:25:29 PM: Inside total days comparison
+2/5/2018 6:25:29 PM: Inside Patient loop
+2/5/2018 6:25:29 PM: To Number: +19177481048
+2/5/2018 6:25:29 PM: From Number: +16467591379
+2/5/2018 6:25:29 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:29 PM: Current Date: 2/5/2018 6:25:29 PM
+2/5/2018 6:25:29 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:29 PM:  scheduled days: 6
+2/5/2018 6:25:29 PM: Inside total days comparison
+2/5/2018 6:25:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:29 PM: Successfully send message for scheduled
+2/5/2018 6:25:29 PM: Inside Patient loop
+2/5/2018 6:25:29 PM: To Number: +19023387215
+2/5/2018 6:25:29 PM: From Number: +16467591379
+2/5/2018 6:25:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:29 PM: Current Date: 2/5/2018 6:25:29 PM
+2/5/2018 6:25:29 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:29 PM:  scheduled days: 11
+2/5/2018 6:25:29 PM: Inside total days comparison
+2/5/2018 6:25:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:30 PM: Successfully send message for scheduled
+2/5/2018 6:25:30 PM: Inside Patient loop
+2/5/2018 6:25:30 PM: To Number: +18375988301
+2/5/2018 6:25:30 PM: From Number: +16467591379
+2/5/2018 6:25:30 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:30 PM: Current Date: 2/5/2018 6:25:30 PM
+2/5/2018 6:25:30 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:30 PM:  scheduled days: -16
+2/5/2018 6:25:30 PM: Inside Patient loop
+2/5/2018 6:25:30 PM: To Number: +18375988304
+2/5/2018 6:25:30 PM: From Number: +16467591379
+2/5/2018 6:25:30 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:30 PM: Current Date: 2/5/2018 6:25:30 PM
+2/5/2018 6:25:30 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:30 PM:  scheduled days: -17
+2/5/2018 6:25:38 PM: Timer 1 has been started.
+2/5/2018 6:25:38 PM: Inside Send Appointment Messages
+2/5/2018 6:25:38 PM: Inside total days comparison
+2/5/2018 6:25:38 PM: currentDate 2/5/2018 6:25:38 PM
+2/5/2018 6:25:38 PM: day diff:-31
+2/5/2018 6:25:38 PM: calculatedTime:6PM
+2/5/2018 6:25:38 PM: setTime:9am
+2/5/2018 6:25:38 PM: Appointment to +19023387215
+2/5/2018 6:25:38 PM: Appointment from +16467591379
+2/5/2018 6:25:38 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:38 PM: currentDate 2/5/2018 6:25:38 PM
+2/5/2018 6:25:38 PM: day diff:-5
+2/5/2018 6:25:38 PM: calculatedTime:6PM
+2/5/2018 6:25:38 PM: setTime:9am
+2/5/2018 6:25:38 PM: Appointment to +18375988301
+2/5/2018 6:25:38 PM: Appointment from +16467591379
+2/5/2018 6:25:38 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:25:38 PM: currentDate 2/5/2018 6:25:38 PM
+2/5/2018 6:25:38 PM: day diff:17
+2/5/2018 6:25:38 PM: calculatedTime:6PM
+2/5/2018 6:25:38 PM: setTime:9am
+2/5/2018 6:25:39 PM: Appointment to +917986501164
+2/5/2018 6:25:39 PM: Appointment from +16467591379
+2/5/2018 6:25:39 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:25:39 PM: currentDate 2/5/2018 6:25:39 PM
+2/5/2018 6:25:39 PM: day diff:-10
+2/5/2018 6:25:39 PM: calculatedTime:6PM
+2/5/2018 6:25:39 PM: setTime:9am
+2/5/2018 6:25:39 PM: Appointment to +917986501164
+2/5/2018 6:25:39 PM: Appointment from +16467591379
+2/5/2018 6:25:39 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:39 PM: currentDate 2/5/2018 6:25:39 PM
+2/5/2018 6:25:39 PM: day diff:-5
+2/5/2018 6:25:39 PM: calculatedTime:6PM
+2/5/2018 6:25:39 PM: setTime:9am
+2/5/2018 6:25:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:39 PM: Successfully send message for scheduled
+2/5/2018 6:25:39 PM: Inside Patient loop
+2/5/2018 6:25:39 PM: To Number: +19023387215
+2/5/2018 6:25:39 PM: From Number: +16467591379
+2/5/2018 6:25:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:39 PM: Current Date: 2/5/2018 6:25:39 PM
+2/5/2018 6:25:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:39 PM:  scheduled days: 11
+2/5/2018 6:25:39 PM: Inside total days comparison
+2/5/2018 6:25:41 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:41 PM: Successfully send message for scheduled
+2/5/2018 6:25:41 PM: Inside Patient loop
+2/5/2018 6:25:41 PM: To Number: +18375988301
+2/5/2018 6:25:41 PM: From Number: +16467591379
+2/5/2018 6:25:41 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:41 PM: Current Date: 2/5/2018 6:25:41 PM
+2/5/2018 6:25:41 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:41 PM:  scheduled days: -16
+2/5/2018 6:25:41 PM: Inside Patient loop
+2/5/2018 6:25:41 PM: To Number: +18375988304
+2/5/2018 6:25:41 PM: From Number: +16467591379
+2/5/2018 6:25:41 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:41 PM: Current Date: 2/5/2018 6:25:41 PM
+2/5/2018 6:25:41 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:41 PM:  scheduled days: -17
+2/5/2018 6:25:48 PM: Timer 2 has been started.
+2/5/2018 6:25:48 PM: Appointment from +16467591379
+2/5/2018 6:25:48 PM: currentAppointmentDate 1/5/2018 10:01:00 AM
+2/5/2018 6:25:48 PM: currentDate 2/5/2018 6:25:48 PM
+2/5/2018 6:25:48 PM: day diff:-31
+2/5/2018 6:25:48 PM: calculatedTime:6PM
+2/5/2018 6:25:48 PM: setTime:9am
+2/5/2018 6:25:48 PM: Appointment to +19023387215
+2/5/2018 6:25:48 PM: Appointment from +16467591379
+2/5/2018 6:25:48 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:48 PM: currentDate 2/5/2018 6:25:48 PM
+2/5/2018 6:25:48 PM: day diff:-5
+2/5/2018 6:25:48 PM: calculatedTime:6PM
+2/5/2018 6:25:48 PM: setTime:9am
+2/5/2018 6:25:48 PM: Appointment to +18375988301
+2/5/2018 6:25:48 PM: Appointment from +16467591379
+2/5/2018 6:25:48 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:25:48 PM: currentDate 2/5/2018 6:25:48 PM
+2/5/2018 6:25:48 PM: day diff:17
+2/5/2018 6:25:48 PM: calculatedTime:6PM
+2/5/2018 6:25:48 PM: setTime:9am
+2/5/2018 6:25:48 PM: Appointment to +917986501164
+2/5/2018 6:25:49 PM: Appointment from +16467591379
+2/5/2018 6:25:49 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:25:49 PM: currentDate 2/5/2018 6:25:49 PM
+2/5/2018 6:25:49 PM: day diff:-10
+2/5/2018 6:25:49 PM: calculatedTime:6PM
+2/5/2018 6:25:49 PM: setTime:9am
+2/5/2018 6:25:49 PM: Appointment to +917986501164
+2/5/2018 6:25:49 PM: Appointment from +16467591379
+2/5/2018 6:25:49 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:49 PM: currentDate 2/5/2018 6:25:49 PM
+2/5/2018 6:25:49 PM: day diff:-5
+2/5/2018 6:25:49 PM: calculatedTime:6PM
+2/5/2018 6:25:49 PM: setTime:9am
+2/5/2018 6:25:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:49 PM: Successfully send message for scheduled
+2/5/2018 6:25:49 PM: Inside Patient loop
+2/5/2018 6:25:49 PM: To Number: +19023387215
+2/5/2018 6:25:49 PM: From Number: +16467591379
+2/5/2018 6:25:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:49 PM: Current Date: 2/5/2018 6:25:49 PM
+2/5/2018 6:25:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:49 PM:  scheduled days: 11
+2/5/2018 6:25:49 PM: Inside total days comparison
+2/5/2018 6:25:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:50 PM: Successfully send message for scheduled
+2/5/2018 6:25:50 PM: Inside Patient loop
+2/5/2018 6:25:50 PM: To Number: +18375988301
+2/5/2018 6:25:50 PM: From Number: +16467591379
+2/5/2018 6:25:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:50 PM: Current Date: 2/5/2018 6:25:50 PM
+2/5/2018 6:25:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:25:50 PM:  scheduled days: -16
+2/5/2018 6:25:50 PM: Inside Patient loop
+2/5/2018 6:25:50 PM: To Number: +18375988304
+2/5/2018 6:25:50 PM: From Number: +16467591379
+2/5/2018 6:25:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:50 PM: Current Date: 2/5/2018 6:25:50 PM
+2/5/2018 6:25:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:25:50 PM:  scheduled days: -17
+2/5/2018 6:25:58 PM: Timer 2 has been started.
+2/5/2018 6:25:58 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:25:58 PM: Current Date: 2/5/2018 6:25:58 PM
+2/5/2018 6:25:58 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:25:58 PM:  scheduled days: -19
+2/5/2018 6:25:58 PM: Inside Patient loop
+2/5/2018 6:25:58 PM: To Number: +11234567891
+2/5/2018 6:25:58 PM: From Number: +16467591379
+2/5/2018 6:25:58 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:58 PM: Current Date: 2/5/2018 6:25:58 PM
+2/5/2018 6:25:58 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:25:58 PM:  scheduled days: 27
+2/5/2018 6:25:58 PM: Inside total days comparison
+2/5/2018 6:25:58 PM: Inside Patient loop
+2/5/2018 6:25:58 PM: To Number: +19177481048
+2/5/2018 6:25:58 PM: From Number: +16467591379
+2/5/2018 6:25:59 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:59 PM: Current Date: 2/5/2018 6:25:59 PM
+2/5/2018 6:25:59 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:25:59 PM:  scheduled days: 6
+2/5/2018 6:25:59 PM: Inside total days comparison
+2/5/2018 6:25:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:25:59 PM: Successfully send message for scheduled
+2/5/2018 6:25:59 PM: Inside Patient loop
+2/5/2018 6:25:59 PM: To Number: +19023387215
+2/5/2018 6:25:59 PM: From Number: +16467591379
+2/5/2018 6:25:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:59 PM: Current Date: 2/5/2018 6:25:59 PM
+2/5/2018 6:25:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:25:59 PM:  scheduled days: 11
+2/5/2018 6:25:59 PM: Inside total days comparison
+2/5/2018 6:26:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:00 PM: Successfully send message for scheduled
+2/5/2018 6:26:00 PM: Inside Patient loop
+2/5/2018 6:26:00 PM: To Number: +18375988301
+2/5/2018 6:26:00 PM: From Number: +16467591379
+2/5/2018 6:26:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:00 PM: Current Date: 2/5/2018 6:26:00 PM
+2/5/2018 6:26:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:00 PM:  scheduled days: -16
+2/5/2018 6:26:00 PM: Inside Patient loop
+2/5/2018 6:26:00 PM: To Number: +18375988304
+2/5/2018 6:26:00 PM: From Number: +16467591379
+2/5/2018 6:26:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:00 PM: Current Date: 2/5/2018 6:26:00 PM
+2/5/2018 6:26:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:00 PM:  scheduled days: -17
+2/5/2018 6:26:08 PM: Timer 2 has been started.
+2/5/2018 6:26:08 PM: currentDate 2/5/2018 6:26:08 PM
+2/5/2018 6:26:08 PM: day diff:-5
+2/5/2018 6:26:08 PM: calculatedTime:6PM
+2/5/2018 6:26:08 PM: setTime:9am
+2/5/2018 6:26:08 PM: Appointment to +18375988301
+2/5/2018 6:26:08 PM: Appointment from +16467591379
+2/5/2018 6:26:08 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:26:08 PM: currentDate 2/5/2018 6:26:08 PM
+2/5/2018 6:26:08 PM: day diff:17
+2/5/2018 6:26:08 PM: calculatedTime:6PM
+2/5/2018 6:26:08 PM: setTime:9am
+2/5/2018 6:26:08 PM: Appointment to +917986501164
+2/5/2018 6:26:08 PM: Appointment from +16467591379
+2/5/2018 6:26:08 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:26:08 PM: currentDate 2/5/2018 6:26:08 PM
+2/5/2018 6:26:09 PM: day diff:-10
+2/5/2018 6:26:09 PM: calculatedTime:6PM
+2/5/2018 6:26:09 PM: setTime:9am
+2/5/2018 6:26:09 PM: Appointment to +917986501164
+2/5/2018 6:26:09 PM: Appointment from +16467591379
+2/5/2018 6:26:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:26:09 PM: currentDate 2/5/2018 6:26:09 PM
+2/5/2018 6:26:09 PM: day diff:-5
+2/5/2018 6:26:09 PM: calculatedTime:6PM
+2/5/2018 6:26:09 PM: setTime:9am
+2/5/2018 6:26:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:09 PM: Successfully send message for scheduled
+2/5/2018 6:26:09 PM: Inside Patient loop
+2/5/2018 6:26:09 PM: To Number: +19023387215
+2/5/2018 6:26:09 PM: From Number: +16467591379
+2/5/2018 6:26:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:09 PM: Current Date: 2/5/2018 6:26:09 PM
+2/5/2018 6:26:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:09 PM:  scheduled days: 11
+2/5/2018 6:26:09 PM: Inside total days comparison
+2/5/2018 6:26:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:10 PM: Successfully send message for scheduled
+2/5/2018 6:26:10 PM: Inside Patient loop
+2/5/2018 6:26:10 PM: To Number: +18375988301
+2/5/2018 6:26:10 PM: From Number: +16467591379
+2/5/2018 6:26:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:10 PM: Current Date: 2/5/2018 6:26:10 PM
+2/5/2018 6:26:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:10 PM:  scheduled days: -16
+2/5/2018 6:26:10 PM: Inside Patient loop
+2/5/2018 6:26:10 PM: To Number: +18375988304
+2/5/2018 6:26:10 PM: From Number: +16467591379
+2/5/2018 6:26:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:10 PM: Current Date: 2/5/2018 6:26:10 PM
+2/5/2018 6:26:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:10 PM:  scheduled days: -17
+2/5/2018 6:26:18 PM: Timer 2 has been started.
+2/5/2018 6:26:18 PM: Appointment from +16467591379
+2/5/2018 6:26:18 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:18 PM: setTime:9am
+2/5/2018 6:26:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:19 PM: Successfully send message for scheduled
+2/5/2018 6:26:19 PM: Inside Patient loop
+2/5/2018 6:26:19 PM: To Number: +19023387215
+2/5/2018 6:26:19 PM: From Number: +16467591379
+2/5/2018 6:26:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:19 PM: Current Date: 2/5/2018 6:26:19 PM
+2/5/2018 6:26:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:19 PM:  scheduled days: 11
+2/5/2018 6:26:19 PM: Inside total days comparison
+2/5/2018 6:26:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:20 PM: Successfully send message for scheduled
+2/5/2018 6:26:20 PM: Inside Patient loop
+2/5/2018 6:26:20 PM: To Number: +18375988301
+2/5/2018 6:26:20 PM: From Number: +16467591379
+2/5/2018 6:26:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:20 PM: Current Date: 2/5/2018 6:26:20 PM
+2/5/2018 6:26:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:20 PM:  scheduled days: -16
+2/5/2018 6:26:20 PM: Inside Patient loop
+2/5/2018 6:26:20 PM: To Number: +18375988304
+2/5/2018 6:26:20 PM: From Number: +16467591379
+2/5/2018 6:26:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:20 PM: Current Date: 2/5/2018 6:26:20 PM
+2/5/2018 6:26:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:20 PM:  scheduled days: -17
+2/5/2018 6:26:28 PM: Timer 1 has been started.
+2/5/2018 6:26:28 PM: Inside Send Appointment Messages
+2/5/2018 6:26:28 PM: Inside Patient loop
+2/5/2018 6:26:28 PM: To Number: +917986501164
+2/5/2018 6:26:28 PM: From Number: +16467591379
+2/5/2018 6:26:28 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:28 PM: Current Date: 2/5/2018 6:26:28 PM
+2/5/2018 6:26:28 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:28 PM:  scheduled days: -19
+2/5/2018 6:26:28 PM: Inside Patient loop
+2/5/2018 6:26:28 PM: To Number: +11234567891
+2/5/2018 6:26:28 PM: From Number: +16467591379
+2/5/2018 6:26:28 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:28 PM: Current Date: 2/5/2018 6:26:28 PM
+2/5/2018 6:26:28 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:28 PM:  scheduled days: 27
+2/5/2018 6:26:28 PM: Inside total days comparison
+2/5/2018 6:26:28 PM: Inside Patient loop
+2/5/2018 6:26:28 PM: To Number: +19177481048
+2/5/2018 6:26:28 PM: From Number: +16467591379
+2/5/2018 6:26:28 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:28 PM: Current Date: 2/5/2018 6:26:28 PM
+2/5/2018 6:26:28 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:28 PM:  scheduled days: 6
+2/5/2018 6:26:28 PM: Inside total days comparison
+2/5/2018 6:26:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:29 PM: Successfully send message for scheduled
+2/5/2018 6:26:29 PM: Inside Patient loop
+2/5/2018 6:26:29 PM: To Number: +19023387215
+2/5/2018 6:26:29 PM: From Number: +16467591379
+2/5/2018 6:26:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:29 PM: Current Date: 2/5/2018 6:26:29 PM
+2/5/2018 6:26:29 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:29 PM:  scheduled days: 11
+2/5/2018 6:26:29 PM: Inside total days comparison
+2/5/2018 6:26:31 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:31 PM: Successfully send message for scheduled
+2/5/2018 6:26:31 PM: Inside Patient loop
+2/5/2018 6:26:31 PM: To Number: +18375988301
+2/5/2018 6:26:31 PM: From Number: +16467591379
+2/5/2018 6:26:31 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:31 PM: Current Date: 2/5/2018 6:26:31 PM
+2/5/2018 6:26:31 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:31 PM:  scheduled days: -16
+2/5/2018 6:26:31 PM: Inside Patient loop
+2/5/2018 6:26:31 PM: To Number: +18375988304
+2/5/2018 6:26:31 PM: From Number: +16467591379
+2/5/2018 6:26:31 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:31 PM: Current Date: 2/5/2018 6:26:31 PM
+2/5/2018 6:26:31 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:31 PM:  scheduled days: -17
+2/5/2018 6:26:38 PM: Timer 2 has been started.
+2/5/2018 6:26:38 PM: currentDate 2/5/2018 6:26:38 PM
+2/5/2018 6:26:38 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:38 PM: Current Date: 2/5/2018 6:26:38 PM
+2/5/2018 6:26:38 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:38 PM:  scheduled days: -19
+2/5/2018 6:26:38 PM: Inside Patient loop
+2/5/2018 6:26:38 PM: To Number: +11234567891
+2/5/2018 6:26:38 PM: From Number: +16467591379
+2/5/2018 6:26:38 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:38 PM: Current Date: 2/5/2018 6:26:38 PM
+2/5/2018 6:26:38 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:38 PM:  scheduled days: 27
+2/5/2018 6:26:38 PM: Inside total days comparison
+2/5/2018 6:26:38 PM: Inside Patient loop
+2/5/2018 6:26:38 PM: To Number: +19177481048
+2/5/2018 6:26:38 PM: From Number: +16467591379
+2/5/2018 6:26:38 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:39 PM: Current Date: 2/5/2018 6:26:39 PM
+2/5/2018 6:26:39 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:39 PM:  scheduled days: 6
+2/5/2018 6:26:39 PM: Inside total days comparison
+2/5/2018 6:26:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:39 PM: Successfully send message for scheduled
+2/5/2018 6:26:39 PM: Inside Patient loop
+2/5/2018 6:26:39 PM: To Number: +19023387215
+2/5/2018 6:26:39 PM: From Number: +16467591379
+2/5/2018 6:26:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:39 PM: Current Date: 2/5/2018 6:26:39 PM
+2/5/2018 6:26:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:39 PM:  scheduled days: 11
+2/5/2018 6:26:39 PM: Inside total days comparison
+2/5/2018 6:26:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:40 PM: Successfully send message for scheduled
+2/5/2018 6:26:40 PM: Inside Patient loop
+2/5/2018 6:26:40 PM: To Number: +18375988301
+2/5/2018 6:26:40 PM: From Number: +16467591379
+2/5/2018 6:26:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:40 PM: Current Date: 2/5/2018 6:26:40 PM
+2/5/2018 6:26:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:40 PM:  scheduled days: -16
+2/5/2018 6:26:40 PM: Inside Patient loop
+2/5/2018 6:26:40 PM: To Number: +18375988304
+2/5/2018 6:26:40 PM: From Number: +16467591379
+2/5/2018 6:26:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:40 PM: Current Date: 2/5/2018 6:26:40 PM
+2/5/2018 6:26:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:40 PM:  scheduled days: -17
+2/5/2018 6:26:48 PM: Timer 2 has been started.
+2/5/2018 6:26:48 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:26:48 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:48 PM: Current Date: 2/5/2018 6:26:48 PM
+2/5/2018 6:26:48 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:48 PM:  scheduled days: -19
+2/5/2018 6:26:48 PM: Inside Patient loop
+2/5/2018 6:26:48 PM: To Number: +11234567891
+2/5/2018 6:26:48 PM: From Number: +16467591379
+2/5/2018 6:26:48 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:48 PM: Current Date: 2/5/2018 6:26:48 PM
+2/5/2018 6:26:48 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:48 PM:  scheduled days: 27
+2/5/2018 6:26:48 PM: Inside total days comparison
+2/5/2018 6:26:48 PM: Inside Patient loop
+2/5/2018 6:26:49 PM: To Number: +19177481048
+2/5/2018 6:26:49 PM: From Number: +16467591379
+2/5/2018 6:26:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:49 PM: Current Date: 2/5/2018 6:26:49 PM
+2/5/2018 6:26:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:49 PM:  scheduled days: 6
+2/5/2018 6:26:49 PM: Inside total days comparison
+2/5/2018 6:26:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:49 PM: Successfully send message for scheduled
+2/5/2018 6:26:49 PM: Inside Patient loop
+2/5/2018 6:26:49 PM: To Number: +19023387215
+2/5/2018 6:26:49 PM: From Number: +16467591379
+2/5/2018 6:26:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:49 PM: Current Date: 2/5/2018 6:26:49 PM
+2/5/2018 6:26:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:49 PM:  scheduled days: 11
+2/5/2018 6:26:49 PM: Inside total days comparison
+2/5/2018 6:26:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:50 PM: Successfully send message for scheduled
+2/5/2018 6:26:50 PM: Inside Patient loop
+2/5/2018 6:26:50 PM: To Number: +18375988301
+2/5/2018 6:26:50 PM: From Number: +16467591379
+2/5/2018 6:26:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:50 PM: Current Date: 2/5/2018 6:26:50 PM
+2/5/2018 6:26:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:26:50 PM:  scheduled days: -16
+2/5/2018 6:26:50 PM: Inside Patient loop
+2/5/2018 6:26:50 PM: To Number: +18375988304
+2/5/2018 6:26:50 PM: From Number: +16467591379
+2/5/2018 6:26:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:50 PM: Current Date: 2/5/2018 6:26:50 PM
+2/5/2018 6:26:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:26:50 PM:  scheduled days: -17
+2/5/2018 6:26:58 PM: Timer 2 has been started.
+2/5/2018 6:26:58 PM: Inside Send Scheduled Messages
+2/5/2018 6:26:58 PM: Appointment to +917986501164
+2/5/2018 6:26:58 PM: Appointment from +16467591379
+2/5/2018 6:26:58 PM: To Number: +917986501164
+2/5/2018 6:26:58 PM: From Number: +16467591379
+2/5/2018 6:26:58 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:58 PM: Current Date: 2/5/2018 6:26:58 PM
+2/5/2018 6:26:58 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:26:58 PM:  scheduled days: -19
+2/5/2018 6:26:58 PM: Inside Patient loop
+2/5/2018 6:26:58 PM: To Number: +11234567891
+2/5/2018 6:26:58 PM: From Number: +16467591379
+2/5/2018 6:26:58 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:58 PM: Current Date: 2/5/2018 6:26:58 PM
+2/5/2018 6:26:58 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:26:58 PM:  scheduled days: 27
+2/5/2018 6:26:58 PM: Inside total days comparison
+2/5/2018 6:26:58 PM: Inside Patient loop
+2/5/2018 6:26:58 PM: To Number: +19177481048
+2/5/2018 6:26:58 PM: From Number: +16467591379
+2/5/2018 6:26:58 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:58 PM: Current Date: 2/5/2018 6:26:58 PM
+2/5/2018 6:26:58 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:26:58 PM:  scheduled days: 6
+2/5/2018 6:26:58 PM: Inside total days comparison
+2/5/2018 6:26:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:26:59 PM: Successfully send message for scheduled
+2/5/2018 6:26:59 PM: Inside Patient loop
+2/5/2018 6:26:59 PM: To Number: +19023387215
+2/5/2018 6:26:59 PM: From Number: +16467591379
+2/5/2018 6:26:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:59 PM: Current Date: 2/5/2018 6:26:59 PM
+2/5/2018 6:26:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:26:59 PM:  scheduled days: 11
+2/5/2018 6:26:59 PM: Inside total days comparison
+2/5/2018 6:27:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:00 PM: Successfully send message for scheduled
+2/5/2018 6:27:00 PM: Inside Patient loop
+2/5/2018 6:27:00 PM: To Number: +18375988301
+2/5/2018 6:27:00 PM: From Number: +16467591379
+2/5/2018 6:27:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:00 PM: Current Date: 2/5/2018 6:27:00 PM
+2/5/2018 6:27:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:00 PM:  scheduled days: -16
+2/5/2018 6:27:00 PM: Inside Patient loop
+2/5/2018 6:27:00 PM: To Number: +18375988304
+2/5/2018 6:27:00 PM: From Number: +16467591379
+2/5/2018 6:27:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:00 PM: Current Date: 2/5/2018 6:27:00 PM
+2/5/2018 6:27:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:00 PM:  scheduled days: -17
+2/5/2018 6:27:08 PM: Timer 2 has been started.
+2/5/2018 6:27:08 PM: Inside Send Scheduled Messages
+2/5/2018 6:27:08 PM: day diff:-10
+2/5/2018 6:27:08 PM: calculatedTime:6PM
+2/5/2018 6:27:08 PM: From Number: +16467591379
+2/5/2018 6:27:08 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:27:08 PM: Current Date: 2/5/2018 6:27:08 PM
+2/5/2018 6:27:08 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:27:09 PM:  scheduled days: -19
+2/5/2018 6:27:09 PM: Inside Patient loop
+2/5/2018 6:27:09 PM: To Number: +11234567891
+2/5/2018 6:27:09 PM: From Number: +16467591379
+2/5/2018 6:27:09 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:27:09 PM: Current Date: 2/5/2018 6:27:09 PM
+2/5/2018 6:27:09 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:27:09 PM:  scheduled days: 27
+2/5/2018 6:27:09 PM: Inside total days comparison
+2/5/2018 6:27:09 PM: Inside Patient loop
+2/5/2018 6:27:09 PM: To Number: +19177481048
+2/5/2018 6:27:09 PM: From Number: +16467591379
+2/5/2018 6:27:09 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:27:09 PM: Current Date: 2/5/2018 6:27:09 PM
+2/5/2018 6:27:09 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:27:09 PM:  scheduled days: 6
+2/5/2018 6:27:09 PM: Inside total days comparison
+2/5/2018 6:27:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:09 PM: Successfully send message for scheduled
+2/5/2018 6:27:09 PM: Inside Patient loop
+2/5/2018 6:27:09 PM: To Number: +19023387215
+2/5/2018 6:27:09 PM: From Number: +16467591379
+2/5/2018 6:27:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:09 PM: Current Date: 2/5/2018 6:27:09 PM
+2/5/2018 6:27:10 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:10 PM:  scheduled days: 11
+2/5/2018 6:27:10 PM: Inside total days comparison
+2/5/2018 6:27:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:10 PM: Successfully send message for scheduled
+2/5/2018 6:27:10 PM: Inside Patient loop
+2/5/2018 6:27:10 PM: To Number: +18375988301
+2/5/2018 6:27:10 PM: From Number: +16467591379
+2/5/2018 6:27:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:10 PM: Current Date: 2/5/2018 6:27:10 PM
+2/5/2018 6:27:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:10 PM:  scheduled days: -16
+2/5/2018 6:27:10 PM: Inside Patient loop
+2/5/2018 6:27:10 PM: To Number: +18375988304
+2/5/2018 6:27:10 PM: From Number: +16467591379
+2/5/2018 6:27:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:10 PM: Current Date: 2/5/2018 6:27:10 PM
+2/5/2018 6:27:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:10 PM:  scheduled days: -17
+2/5/2018 6:27:18 PM: Timer 1 has been started.
+2/5/2018 6:27:18 PM: Inside Send Appointment Messages
+2/5/2018 6:27:18 PM: Inside Patient loop
+2/5/2018 6:27:18 PM: setTime:9am
+2/5/2018 6:27:18 PM: Appointment to +18375988301
+2/5/2018 6:27:18 PM: Appointment from +16467591379
+2/5/2018 6:27:18 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:27:18 PM: currentDate 2/5/2018 6:27:18 PM
+2/5/2018 6:27:18 PM: day diff:17
+2/5/2018 6:27:18 PM: calculatedTime:6PM
+2/5/2018 6:27:18 PM: setTime:9am
+2/5/2018 6:27:18 PM: Appointment to +917986501164
+2/5/2018 6:27:18 PM: Appointment from +16467591379
+2/5/2018 6:27:19 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:27:19 PM: currentDate 2/5/2018 6:27:19 PM
+2/5/2018 6:27:19 PM: day diff:-10
+2/5/2018 6:27:19 PM: calculatedTime:6PM
+2/5/2018 6:27:19 PM: setTime:9am
+2/5/2018 6:27:19 PM: Appointment to +917986501164
+2/5/2018 6:27:19 PM: Appointment from +16467591379
+2/5/2018 6:27:19 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:27:19 PM: currentDate 2/5/2018 6:27:19 PM
+2/5/2018 6:27:19 PM: day diff:-5
+2/5/2018 6:27:19 PM: calculatedTime:6PM
+2/5/2018 6:27:19 PM: setTime:9am
+2/5/2018 6:27:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:19 PM: Successfully send message for scheduled
+2/5/2018 6:27:19 PM: Inside Patient loop
+2/5/2018 6:27:19 PM: To Number: +19023387215
+2/5/2018 6:27:19 PM: From Number: +16467591379
+2/5/2018 6:27:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:19 PM: Current Date: 2/5/2018 6:27:19 PM
+2/5/2018 6:27:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:19 PM:  scheduled days: 11
+2/5/2018 6:27:19 PM: Inside total days comparison
+2/5/2018 6:27:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:20 PM: Successfully send message for scheduled
+2/5/2018 6:27:20 PM: Inside Patient loop
+2/5/2018 6:27:20 PM: To Number: +18375988301
+2/5/2018 6:27:20 PM: From Number: +16467591379
+2/5/2018 6:27:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:20 PM: Current Date: 2/5/2018 6:27:20 PM
+2/5/2018 6:27:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:20 PM:  scheduled days: -16
+2/5/2018 6:27:20 PM: Inside Patient loop
+2/5/2018 6:27:20 PM: To Number: +18375988304
+2/5/2018 6:27:20 PM: From Number: +16467591379
+2/5/2018 6:27:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:20 PM: Current Date: 2/5/2018 6:27:20 PM
+2/5/2018 6:27:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:20 PM:  scheduled days: -17
+2/5/2018 6:27:28 PM: Timer 2 has been started.
+2/5/2018 6:27:28 PM: Inside Send Scheduled Messages
+2/5/2018 6:27:28 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:27:28 PM: currentDate 2/5/2018 6:27:28 PM
+2/5/2018 6:27:28 PM: day diff:17
+2/5/2018 6:27:28 PM: calculatedTime:6PM
+2/5/2018 6:27:28 PM: setTime:9am
+2/5/2018 6:27:28 PM: Appointment to +917986501164
+2/5/2018 6:27:28 PM: Appointment from +16467591379
+2/5/2018 6:27:28 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:27:28 PM: currentDate 2/5/2018 6:27:28 PM
+2/5/2018 6:27:28 PM: day diff:-10
+2/5/2018 6:27:28 PM: calculatedTime:6PM
+2/5/2018 6:27:28 PM: setTime:9am
+2/5/2018 6:27:28 PM: Appointment to +917986501164
+2/5/2018 6:27:28 PM: Appointment from +16467591379
+2/5/2018 6:27:28 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:27:28 PM: currentDate 2/5/2018 6:27:28 PM
+2/5/2018 6:27:28 PM: day diff:-5
+2/5/2018 6:27:29 PM: calculatedTime:6PM
+2/5/2018 6:27:29 PM: setTime:9am
+2/5/2018 6:27:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:29 PM: Successfully send message for scheduled
+2/5/2018 6:27:29 PM: Inside Patient loop
+2/5/2018 6:27:29 PM: To Number: +19023387215
+2/5/2018 6:27:29 PM: From Number: +16467591379
+2/5/2018 6:27:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:29 PM: Current Date: 2/5/2018 6:27:29 PM
+2/5/2018 6:27:29 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:29 PM:  scheduled days: 11
+2/5/2018 6:27:29 PM: Inside total days comparison
+2/5/2018 6:27:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:30 PM: Successfully send message for scheduled
+2/5/2018 6:27:30 PM: Inside Patient loop
+2/5/2018 6:27:30 PM: To Number: +18375988301
+2/5/2018 6:27:30 PM: From Number: +16467591379
+2/5/2018 6:27:30 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:30 PM: Current Date: 2/5/2018 6:27:30 PM
+2/5/2018 6:27:30 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:30 PM:  scheduled days: -16
+2/5/2018 6:27:30 PM: Inside Patient loop
+2/5/2018 6:27:30 PM: To Number: +18375988304
+2/5/2018 6:27:30 PM: From Number: +16467591379
+2/5/2018 6:27:30 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:30 PM: Current Date: 2/5/2018 6:27:30 PM
+2/5/2018 6:27:30 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:30 PM:  scheduled days: -17
+2/5/2018 6:27:38 PM: Timer 2 has been started.
+2/5/2018 6:27:38 PM: Inside Send Scheduled Messages
+2/5/2018 6:27:38 PM: day diff:-5
+2/5/2018 6:27:38 PM: calculatedTime:6PM
+2/5/2018 6:27:38 PM: Current Date: 2/5/2018 6:27:38 PM
+2/5/2018 6:27:38 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:27:38 PM:  scheduled days: -19
+2/5/2018 6:27:38 PM: Inside Patient loop
+2/5/2018 6:27:38 PM: To Number: +11234567891
+2/5/2018 6:27:38 PM: From Number: +16467591379
+2/5/2018 6:27:38 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:27:38 PM: Current Date: 2/5/2018 6:27:38 PM
+2/5/2018 6:27:38 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:27:38 PM:  scheduled days: 27
+2/5/2018 6:27:38 PM: Inside total days comparison
+2/5/2018 6:27:38 PM: Inside Patient loop
+2/5/2018 6:27:39 PM: To Number: +19177481048
+2/5/2018 6:27:39 PM: From Number: +16467591379
+2/5/2018 6:27:39 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:27:39 PM: Current Date: 2/5/2018 6:27:39 PM
+2/5/2018 6:27:39 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:27:39 PM:  scheduled days: 6
+2/5/2018 6:27:39 PM: Inside total days comparison
+2/5/2018 6:27:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:39 PM: Successfully send message for scheduled
+2/5/2018 6:27:39 PM: Inside Patient loop
+2/5/2018 6:27:39 PM: To Number: +19023387215
+2/5/2018 6:27:39 PM: From Number: +16467591379
+2/5/2018 6:27:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:39 PM: Current Date: 2/5/2018 6:27:39 PM
+2/5/2018 6:27:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:39 PM:  scheduled days: 11
+2/5/2018 6:27:39 PM: Inside total days comparison
+2/5/2018 6:27:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:40 PM: Successfully send message for scheduled
+2/5/2018 6:27:40 PM: Inside Patient loop
+2/5/2018 6:27:40 PM: To Number: +18375988301
+2/5/2018 6:27:40 PM: From Number: +16467591379
+2/5/2018 6:27:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:40 PM: Current Date: 2/5/2018 6:27:40 PM
+2/5/2018 6:27:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:40 PM:  scheduled days: -16
+2/5/2018 6:27:40 PM: Inside Patient loop
+2/5/2018 6:27:40 PM: To Number: +18375988304
+2/5/2018 6:27:40 PM: From Number: +16467591379
+2/5/2018 6:27:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:40 PM: Current Date: 2/5/2018 6:27:40 PM
+2/5/2018 6:27:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:40 PM:  scheduled days: -17
+2/5/2018 6:27:48 PM: Timer 1 has been started.
+2/5/2018 6:27:48 PM: Inside Send Appointment Messages
+2/5/2018 6:27:48 PM: Inside Patient loop
+2/5/2018 6:27:48 PM: To Number: +917986501164
+2/5/2018 6:27:48 PM: Appointment from +16467591379
+2/5/2018 6:27:48 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:27:48 PM: currentDate 2/5/2018 6:27:48 PM
+2/5/2018 6:27:48 PM: day diff:-5
+2/5/2018 6:27:48 PM: calculatedTime:6PM
+2/5/2018 6:27:48 PM: setTime:9am
+2/5/2018 6:27:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:50 PM: Successfully send message for scheduled
+2/5/2018 6:27:50 PM: Inside Patient loop
+2/5/2018 6:27:50 PM: To Number: +19023387215
+2/5/2018 6:27:50 PM: From Number: +16467591379
+2/5/2018 6:27:50 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:50 PM: Current Date: 2/5/2018 6:27:50 PM
+2/5/2018 6:27:50 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:50 PM:  scheduled days: 11
+2/5/2018 6:27:50 PM: Inside total days comparison
+2/5/2018 6:27:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:50 PM: Successfully send message for scheduled
+2/5/2018 6:27:50 PM: Inside Patient loop
+2/5/2018 6:27:51 PM: To Number: +18375988301
+2/5/2018 6:27:51 PM: From Number: +16467591379
+2/5/2018 6:27:51 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:51 PM: Current Date: 2/5/2018 6:27:51 PM
+2/5/2018 6:27:51 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:27:51 PM:  scheduled days: -16
+2/5/2018 6:27:51 PM: Inside Patient loop
+2/5/2018 6:27:51 PM: To Number: +18375988304
+2/5/2018 6:27:51 PM: From Number: +16467591379
+2/5/2018 6:27:51 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:51 PM: Current Date: 2/5/2018 6:27:51 PM
+2/5/2018 6:27:51 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:27:51 PM:  scheduled days: -17
+2/5/2018 6:27:58 PM: Timer 1 has been started.
+2/5/2018 6:27:58 PM: Inside Send Appointment Messages
+2/5/2018 6:27:58 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:27:58 PM:  scheduled days: 27
+2/5/2018 6:27:58 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:27:58 PM: currentDate 2/5/2018 6:27:58 PM
+2/5/2018 6:27:58 PM: day diff:-5
+2/5/2018 6:27:58 PM: calculatedTime:6PM
+2/5/2018 6:27:58 PM: setTime:9am
+2/5/2018 6:27:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:27:59 PM: Successfully send message for scheduled
+2/5/2018 6:27:59 PM: Inside Patient loop
+2/5/2018 6:27:59 PM: To Number: +19023387215
+2/5/2018 6:27:59 PM: From Number: +16467591379
+2/5/2018 6:27:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:59 PM: Current Date: 2/5/2018 6:27:59 PM
+2/5/2018 6:27:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:27:59 PM:  scheduled days: 11
+2/5/2018 6:27:59 PM: Inside total days comparison
+2/5/2018 6:28:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:00 PM: Successfully send message for scheduled
+2/5/2018 6:28:00 PM: Inside Patient loop
+2/5/2018 6:28:00 PM: To Number: +18375988301
+2/5/2018 6:28:00 PM: From Number: +16467591379
+2/5/2018 6:28:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:00 PM: Current Date: 2/5/2018 6:28:00 PM
+2/5/2018 6:28:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:00 PM:  scheduled days: -16
+2/5/2018 6:28:00 PM: Inside Patient loop
+2/5/2018 6:28:00 PM: To Number: +18375988304
+2/5/2018 6:28:00 PM: From Number: +16467591379
+2/5/2018 6:28:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:00 PM: Current Date: 2/5/2018 6:28:00 PM
+2/5/2018 6:28:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:00 PM:  scheduled days: -17
+2/5/2018 6:28:08 PM: Timer 1 has been started.
+2/5/2018 6:28:08 PM: Inside Send Appointment Messages
+2/5/2018 6:28:08 PM: To Number: +11234567891
+2/5/2018 6:28:08 PM: From Number: +16467591379
+2/5/2018 6:28:08 PM: calculatedTime:6PM
+2/5/2018 6:28:08 PM: setTime:9am
+2/5/2018 6:28:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:09 PM: Successfully send message for scheduled
+2/5/2018 6:28:09 PM: Inside Patient loop
+2/5/2018 6:28:09 PM: To Number: +19023387215
+2/5/2018 6:28:09 PM: From Number: +16467591379
+2/5/2018 6:28:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:09 PM: Current Date: 2/5/2018 6:28:09 PM
+2/5/2018 6:28:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:09 PM:  scheduled days: 11
+2/5/2018 6:28:09 PM: Inside total days comparison
+2/5/2018 6:28:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:10 PM: Successfully send message for scheduled
+2/5/2018 6:28:10 PM: Inside Patient loop
+2/5/2018 6:28:10 PM: To Number: +18375988301
+2/5/2018 6:28:10 PM: From Number: +16467591379
+2/5/2018 6:28:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:10 PM: Current Date: 2/5/2018 6:28:10 PM
+2/5/2018 6:28:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:10 PM:  scheduled days: -16
+2/5/2018 6:28:10 PM: Inside Patient loop
+2/5/2018 6:28:10 PM: To Number: +18375988304
+2/5/2018 6:28:10 PM: From Number: +16467591379
+2/5/2018 6:28:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:10 PM: Current Date: 2/5/2018 6:28:10 PM
+2/5/2018 6:28:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:10 PM:  scheduled days: -17
+2/5/2018 6:28:18 PM: Timer 2 has been started.
+2/5/2018 6:28:18 PM: setTime:9am
+2/5/2018 6:28:18 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:18 PM: Current Date: 2/5/2018 6:28:18 PM
+2/5/2018 6:28:18 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:18 PM:  scheduled days: 27
+2/5/2018 6:28:18 PM: Inside total days comparison
+2/5/2018 6:28:18 PM: Inside Patient loop
+2/5/2018 6:28:18 PM: To Number: +19177481048
+2/5/2018 6:28:19 PM: From Number: +16467591379
+2/5/2018 6:28:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:19 PM: Current Date: 2/5/2018 6:28:19 PM
+2/5/2018 6:28:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:19 PM:  scheduled days: 6
+2/5/2018 6:28:19 PM: Inside total days comparison
+2/5/2018 6:28:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:19 PM: Successfully send message for scheduled
+2/5/2018 6:28:19 PM: Inside Patient loop
+2/5/2018 6:28:19 PM: To Number: +19023387215
+2/5/2018 6:28:19 PM: From Number: +16467591379
+2/5/2018 6:28:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:19 PM: Current Date: 2/5/2018 6:28:19 PM
+2/5/2018 6:28:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:19 PM:  scheduled days: 11
+2/5/2018 6:28:19 PM: Inside total days comparison
+2/5/2018 6:28:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:20 PM: Successfully send message for scheduled
+2/5/2018 6:28:20 PM: Inside Patient loop
+2/5/2018 6:28:20 PM: To Number: +18375988301
+2/5/2018 6:28:20 PM: From Number: +16467591379
+2/5/2018 6:28:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:20 PM: Current Date: 2/5/2018 6:28:20 PM
+2/5/2018 6:28:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:20 PM:  scheduled days: -16
+2/5/2018 6:28:20 PM: Inside Patient loop
+2/5/2018 6:28:20 PM: To Number: +18375988304
+2/5/2018 6:28:20 PM: From Number: +16467591379
+2/5/2018 6:28:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:20 PM: Current Date: 2/5/2018 6:28:20 PM
+2/5/2018 6:28:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:20 PM:  scheduled days: -17
+2/5/2018 6:28:28 PM: Timer 2 has been started.
+2/5/2018 6:28:28 PM: Inside Send Scheduled Messages
+2/5/2018 6:28:28 PM: Inside Patient loop
+2/5/2018 6:28:28 PM: To Number: +917986501164
+2/5/2018 6:28:28 PM: From Number: +16467591379
+2/5/2018 6:28:28 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:28:28 PM: Current Date: 2/5/2018 6:28:28 PM
+2/5/2018 6:28:28 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:28:29 PM:  scheduled days: -19
+2/5/2018 6:28:29 PM: Inside Patient loop
+2/5/2018 6:28:29 PM: To Number: +11234567891
+2/5/2018 6:28:29 PM: From Number: +16467591379
+2/5/2018 6:28:29 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:29 PM: Current Date: 2/5/2018 6:28:29 PM
+2/5/2018 6:28:29 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:29 PM:  scheduled days: 27
+2/5/2018 6:28:29 PM: Inside total days comparison
+2/5/2018 6:28:29 PM: Inside Patient loop
+2/5/2018 6:28:29 PM: To Number: +19177481048
+2/5/2018 6:28:29 PM: From Number: +16467591379
+2/5/2018 6:28:29 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:29 PM: Current Date: 2/5/2018 6:28:29 PM
+2/5/2018 6:28:29 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:29 PM:  scheduled days: 6
+2/5/2018 6:28:29 PM: Inside total days comparison
+2/5/2018 6:28:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:30 PM: Successfully send message for scheduled
+2/5/2018 6:28:30 PM: Inside Patient loop
+2/5/2018 6:28:30 PM: To Number: +19023387215
+2/5/2018 6:28:30 PM: From Number: +16467591379
+2/5/2018 6:28:30 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:30 PM: Current Date: 2/5/2018 6:28:30 PM
+2/5/2018 6:28:30 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:30 PM:  scheduled days: 11
+2/5/2018 6:28:30 PM: Inside total days comparison
+2/5/2018 6:28:31 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:31 PM: Successfully send message for scheduled
+2/5/2018 6:28:31 PM: Inside Patient loop
+2/5/2018 6:28:31 PM: To Number: +18375988301
+2/5/2018 6:28:31 PM: From Number: +16467591379
+2/5/2018 6:28:31 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:31 PM: Current Date: 2/5/2018 6:28:31 PM
+2/5/2018 6:28:31 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:31 PM:  scheduled days: -16
+2/5/2018 6:28:31 PM: Inside Patient loop
+2/5/2018 6:28:31 PM: To Number: +18375988304
+2/5/2018 6:28:31 PM: From Number: +16467591379
+2/5/2018 6:28:31 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:31 PM: Current Date: 2/5/2018 6:28:31 PM
+2/5/2018 6:28:31 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:31 PM:  scheduled days: -17
+2/5/2018 6:28:38 PM: Timer 2 has been started.
+2/5/2018 6:28:38 PM: Inside Send Scheduled Messages
+2/5/2018 6:28:38 PM: Inside Patient loop
+2/5/2018 6:28:38 PM: To Number: +917986501164
+2/5/2018 6:28:38 PM: From Number: +16467591379
+2/5/2018 6:28:39 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:28:39 PM: Current Date: 2/5/2018 6:28:39 PM
+2/5/2018 6:28:39 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:28:39 PM:  scheduled days: -19
+2/5/2018 6:28:39 PM: Inside Patient loop
+2/5/2018 6:28:39 PM: To Number: +11234567891
+2/5/2018 6:28:39 PM: From Number: +16467591379
+2/5/2018 6:28:39 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:39 PM: Current Date: 2/5/2018 6:28:39 PM
+2/5/2018 6:28:39 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:28:39 PM:  scheduled days: 27
+2/5/2018 6:28:39 PM: Inside total days comparison
+2/5/2018 6:28:39 PM: Inside Patient loop
+2/5/2018 6:28:39 PM: To Number: +19177481048
+2/5/2018 6:28:39 PM: From Number: +16467591379
+2/5/2018 6:28:39 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:39 PM: Current Date: 2/5/2018 6:28:39 PM
+2/5/2018 6:28:39 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:28:39 PM:  scheduled days: 6
+2/5/2018 6:28:39 PM: Inside total days comparison
+2/5/2018 6:28:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:39 PM: Successfully send message for scheduled
+2/5/2018 6:28:40 PM: Inside Patient loop
+2/5/2018 6:28:40 PM: To Number: +19023387215
+2/5/2018 6:28:40 PM: From Number: +16467591379
+2/5/2018 6:28:40 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:40 PM: Current Date: 2/5/2018 6:28:40 PM
+2/5/2018 6:28:40 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:40 PM:  scheduled days: 11
+2/5/2018 6:28:40 PM: Inside total days comparison
+2/5/2018 6:28:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:40 PM: Successfully send message for scheduled
+2/5/2018 6:28:40 PM: Inside Patient loop
+2/5/2018 6:28:40 PM: To Number: +18375988301
+2/5/2018 6:28:40 PM: From Number: +16467591379
+2/5/2018 6:28:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:40 PM: Current Date: 2/5/2018 6:28:40 PM
+2/5/2018 6:28:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:40 PM:  scheduled days: -16
+2/5/2018 6:28:40 PM: Inside Patient loop
+2/5/2018 6:28:40 PM: To Number: +18375988304
+2/5/2018 6:28:40 PM: From Number: +16467591379
+2/5/2018 6:28:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:40 PM: Current Date: 2/5/2018 6:28:40 PM
+2/5/2018 6:28:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:40 PM:  scheduled days: -17
+2/5/2018 6:28:48 PM: Timer 1 has been started.
+2/5/2018 6:28:48 PM: Inside Patient loop
+2/5/2018 6:28:48 PM: currentDate 2/5/2018 6:28:48 PM
+2/5/2018 6:28:48 PM: day diff:-5
+2/5/2018 6:28:48 PM: calculatedTime:6PM
+2/5/2018 6:28:48 PM: setTime:9am
+2/5/2018 6:28:49 PM: Appointment to +18375988301
+2/5/2018 6:28:49 PM: Appointment from +16467591379
+2/5/2018 6:28:49 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:28:49 PM: currentDate 2/5/2018 6:28:49 PM
+2/5/2018 6:28:49 PM: day diff:17
+2/5/2018 6:28:49 PM: calculatedTime:6PM
+2/5/2018 6:28:49 PM: setTime:9am
+2/5/2018 6:28:49 PM: Appointment to +917986501164
+2/5/2018 6:28:49 PM: Appointment from +16467591379
+2/5/2018 6:28:49 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:28:49 PM: currentDate 2/5/2018 6:28:49 PM
+2/5/2018 6:28:49 PM: day diff:-10
+2/5/2018 6:28:49 PM: calculatedTime:6PM
+2/5/2018 6:28:49 PM: setTime:9am
+2/5/2018 6:28:49 PM: Appointment to +917986501164
+2/5/2018 6:28:49 PM: Appointment from +16467591379
+2/5/2018 6:28:49 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:28:49 PM: currentDate 2/5/2018 6:28:49 PM
+2/5/2018 6:28:49 PM: day diff:-5
+2/5/2018 6:28:49 PM: calculatedTime:6PM
+2/5/2018 6:28:49 PM: setTime:9am
+2/5/2018 6:28:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:49 PM: Successfully send message for scheduled
+2/5/2018 6:28:49 PM: Inside Patient loop
+2/5/2018 6:28:49 PM: To Number: +19023387215
+2/5/2018 6:28:49 PM: From Number: +16467591379
+2/5/2018 6:28:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:49 PM: Current Date: 2/5/2018 6:28:49 PM
+2/5/2018 6:28:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:49 PM:  scheduled days: 11
+2/5/2018 6:28:49 PM: Inside total days comparison
+2/5/2018 6:28:51 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:51 PM: Successfully send message for scheduled
+2/5/2018 6:28:51 PM: Inside Patient loop
+2/5/2018 6:28:51 PM: To Number: +18375988301
+2/5/2018 6:28:51 PM: From Number: +16467591379
+2/5/2018 6:28:51 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:51 PM: Current Date: 2/5/2018 6:28:51 PM
+2/5/2018 6:28:51 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:28:51 PM:  scheduled days: -16
+2/5/2018 6:28:51 PM: Inside Patient loop
+2/5/2018 6:28:51 PM: To Number: +18375988304
+2/5/2018 6:28:51 PM: From Number: +16467591379
+2/5/2018 6:28:51 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:51 PM: Current Date: 2/5/2018 6:28:51 PM
+2/5/2018 6:28:51 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:28:51 PM:  scheduled days: -17
+2/5/2018 6:28:58 PM: Timer 1 has been started.
+2/5/2018 6:28:58 PM: From Number: +16467591379
+2/5/2018 6:28:58 PM: Appointment to +19177481048
+2/5/2018 6:28:58 PM: Appointment from +16467591379
+2/5/2018 6:28:58 PM: currentAppointmentDate 1/5/2018 10:01:00 AM
+2/5/2018 6:28:59 PM: currentDate 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: day diff:-31
+2/5/2018 6:28:59 PM: calculatedTime:6PM
+2/5/2018 6:28:59 PM: setTime:9am
+2/5/2018 6:28:59 PM: Appointment to +19023387215
+2/5/2018 6:28:59 PM: Appointment from +16467591379
+2/5/2018 6:28:59 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:28:59 PM: currentDate 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: day diff:-5
+2/5/2018 6:28:59 PM: calculatedTime:6PM
+2/5/2018 6:28:59 PM: setTime:9am
+2/5/2018 6:28:59 PM: Appointment to +18375988301
+2/5/2018 6:28:59 PM: Appointment from +16467591379
+2/5/2018 6:28:59 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:28:59 PM: currentDate 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: day diff:17
+2/5/2018 6:28:59 PM: calculatedTime:6PM
+2/5/2018 6:28:59 PM: setTime:9am
+2/5/2018 6:28:59 PM: Appointment to +917986501164
+2/5/2018 6:28:59 PM: Appointment from +16467591379
+2/5/2018 6:28:59 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:28:59 PM: currentDate 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: day diff:-10
+2/5/2018 6:28:59 PM: calculatedTime:6PM
+2/5/2018 6:28:59 PM: setTime:9am
+2/5/2018 6:28:59 PM: Appointment to +917986501164
+2/5/2018 6:28:59 PM: Appointment from +16467591379
+2/5/2018 6:28:59 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:28:59 PM: currentDate 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: day diff:-5
+2/5/2018 6:28:59 PM: calculatedTime:6PM
+2/5/2018 6:28:59 PM: setTime:9am
+2/5/2018 6:28:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:28:59 PM: Successfully send message for scheduled
+2/5/2018 6:28:59 PM: Inside Patient loop
+2/5/2018 6:28:59 PM: To Number: +19023387215
+2/5/2018 6:28:59 PM: From Number: +16467591379
+2/5/2018 6:28:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:59 PM: Current Date: 2/5/2018 6:28:59 PM
+2/5/2018 6:28:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:28:59 PM:  scheduled days: 11
+2/5/2018 6:28:59 PM: Inside total days comparison
+2/5/2018 6:29:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:00 PM: Successfully send message for scheduled
+2/5/2018 6:29:00 PM: Inside Patient loop
+2/5/2018 6:29:00 PM: To Number: +18375988301
+2/5/2018 6:29:00 PM: From Number: +16467591379
+2/5/2018 6:29:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:00 PM: Current Date: 2/5/2018 6:29:00 PM
+2/5/2018 6:29:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:00 PM:  scheduled days: -16
+2/5/2018 6:29:00 PM: Inside Patient loop
+2/5/2018 6:29:00 PM: To Number: +18375988304
+2/5/2018 6:29:00 PM: From Number: +16467591379
+2/5/2018 6:29:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:00 PM: Current Date: 2/5/2018 6:29:00 PM
+2/5/2018 6:29:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:00 PM:  scheduled days: -17
+2/5/2018 6:29:08 PM: Timer 1 has been started.
+2/5/2018 6:29:08 PM: Inside Send Appointment Messages
+2/5/2018 6:29:08 PM: Inside Patient loop
+2/5/2018 6:29:08 PM: Appointment from +16467591379
+2/5/2018 6:29:08 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:08 PM: currentDate 2/5/2018 6:29:08 PM
+2/5/2018 6:29:08 PM: day diff:-5
+2/5/2018 6:29:08 PM: calculatedTime:6PM
+2/5/2018 6:29:08 PM: setTime:9am
+2/5/2018 6:29:08 PM: Appointment to +18375988301
+2/5/2018 6:29:09 PM: Appointment from +16467591379
+2/5/2018 6:29:09 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:29:09 PM: currentDate 2/5/2018 6:29:09 PM
+2/5/2018 6:29:09 PM: day diff:17
+2/5/2018 6:29:09 PM: calculatedTime:6PM
+2/5/2018 6:29:09 PM: setTime:9am
+2/5/2018 6:29:09 PM: Appointment to +917986501164
+2/5/2018 6:29:09 PM: Appointment from +16467591379
+2/5/2018 6:29:09 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:29:09 PM: currentDate 2/5/2018 6:29:09 PM
+2/5/2018 6:29:09 PM: day diff:-10
+2/5/2018 6:29:09 PM: calculatedTime:6PM
+2/5/2018 6:29:09 PM: setTime:9am
+2/5/2018 6:29:09 PM: Appointment to +917986501164
+2/5/2018 6:29:09 PM: Appointment from +16467591379
+2/5/2018 6:29:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:09 PM: currentDate 2/5/2018 6:29:09 PM
+2/5/2018 6:29:09 PM: day diff:-5
+2/5/2018 6:29:09 PM: calculatedTime:6PM
+2/5/2018 6:29:09 PM: setTime:9am
+2/5/2018 6:29:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:09 PM: Successfully send message for scheduled
+2/5/2018 6:29:09 PM: Inside Patient loop
+2/5/2018 6:29:09 PM: To Number: +19023387215
+2/5/2018 6:29:09 PM: From Number: +16467591379
+2/5/2018 6:29:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:09 PM: Current Date: 2/5/2018 6:29:09 PM
+2/5/2018 6:29:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:09 PM:  scheduled days: 11
+2/5/2018 6:29:09 PM: Inside total days comparison
+2/5/2018 6:29:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:10 PM: Successfully send message for scheduled
+2/5/2018 6:29:10 PM: Inside Patient loop
+2/5/2018 6:29:10 PM: To Number: +18375988301
+2/5/2018 6:29:10 PM: From Number: +16467591379
+2/5/2018 6:29:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:10 PM: Current Date: 2/5/2018 6:29:10 PM
+2/5/2018 6:29:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:10 PM:  scheduled days: -16
+2/5/2018 6:29:10 PM: Inside Patient loop
+2/5/2018 6:29:10 PM: To Number: +18375988304
+2/5/2018 6:29:10 PM: From Number: +16467591379
+2/5/2018 6:29:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:10 PM: Current Date: 2/5/2018 6:29:10 PM
+2/5/2018 6:29:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:10 PM:  scheduled days: -17
+2/5/2018 6:29:18 PM: Timer 1 has been started.
+2/5/2018 6:29:18 PM: Inside Send Appointment Messages
+2/5/2018 6:29:18 PM: Current Date: 2/5/2018 6:29:18 PM
+2/5/2018 6:29:18 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:29:18 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:29:18 PM: currentDate 2/5/2018 6:29:18 PM
+2/5/2018 6:29:18 PM: day diff:17
+2/5/2018 6:29:18 PM: calculatedTime:6PM
+2/5/2018 6:29:18 PM: setTime:9am
+2/5/2018 6:29:18 PM: Appointment to +917986501164
+2/5/2018 6:29:19 PM: Appointment from +16467591379
+2/5/2018 6:29:19 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:29:19 PM: currentDate 2/5/2018 6:29:19 PM
+2/5/2018 6:29:19 PM: day diff:-10
+2/5/2018 6:29:19 PM: calculatedTime:6PM
+2/5/2018 6:29:19 PM: setTime:9am
+2/5/2018 6:29:19 PM: Appointment to +917986501164
+2/5/2018 6:29:19 PM: Appointment from +16467591379
+2/5/2018 6:29:19 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:19 PM: currentDate 2/5/2018 6:29:19 PM
+2/5/2018 6:29:19 PM: day diff:-5
+2/5/2018 6:29:19 PM: calculatedTime:6PM
+2/5/2018 6:29:19 PM: setTime:9am
+2/5/2018 6:29:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:19 PM: Successfully send message for scheduled
+2/5/2018 6:29:19 PM: Inside Patient loop
+2/5/2018 6:29:19 PM: To Number: +19023387215
+2/5/2018 6:29:19 PM: From Number: +16467591379
+2/5/2018 6:29:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:19 PM: Current Date: 2/5/2018 6:29:19 PM
+2/5/2018 6:29:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:19 PM:  scheduled days: 11
+2/5/2018 6:29:19 PM: Inside total days comparison
+2/5/2018 6:29:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:20 PM: Successfully send message for scheduled
+2/5/2018 6:29:20 PM: Inside Patient loop
+2/5/2018 6:29:20 PM: To Number: +18375988301
+2/5/2018 6:29:20 PM: From Number: +16467591379
+2/5/2018 6:29:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:20 PM: Current Date: 2/5/2018 6:29:20 PM
+2/5/2018 6:29:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:20 PM:  scheduled days: -16
+2/5/2018 6:29:20 PM: Inside Patient loop
+2/5/2018 6:29:20 PM: To Number: +18375988304
+2/5/2018 6:29:20 PM: From Number: +16467591379
+2/5/2018 6:29:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:20 PM: Current Date: 2/5/2018 6:29:20 PM
+2/5/2018 6:29:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:20 PM:  scheduled days: -17
+2/5/2018 6:29:28 PM: Timer 2 has been started.
+2/5/2018 6:29:28 PM: setTime:9am
+2/5/2018 6:29:28 PM: Inside Patient loop
+2/5/2018 6:29:28 PM: To Number: +917986501164
+2/5/2018 6:29:28 PM: From Number: +16467591379
+2/5/2018 6:29:29 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:29:29 PM: Current Date: 2/5/2018 6:29:29 PM
+2/5/2018 6:29:29 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:29:29 PM:  scheduled days: -19
+2/5/2018 6:29:29 PM: Inside Patient loop
+2/5/2018 6:29:29 PM: To Number: +11234567891
+2/5/2018 6:29:29 PM: From Number: +16467591379
+2/5/2018 6:29:29 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:29:29 PM: Current Date: 2/5/2018 6:29:29 PM
+2/5/2018 6:29:29 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:29:29 PM:  scheduled days: 27
+2/5/2018 6:29:29 PM: Inside total days comparison
+2/5/2018 6:29:29 PM: Inside Patient loop
+2/5/2018 6:29:29 PM: To Number: +19177481048
+2/5/2018 6:29:29 PM: From Number: +16467591379
+2/5/2018 6:29:29 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:29:29 PM: Current Date: 2/5/2018 6:29:29 PM
+2/5/2018 6:29:29 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:29:29 PM:  scheduled days: 6
+2/5/2018 6:29:29 PM: Inside total days comparison
+2/5/2018 6:29:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:29 PM: Successfully send message for scheduled
+2/5/2018 6:29:29 PM: Inside Patient loop
+2/5/2018 6:29:29 PM: To Number: +19023387215
+2/5/2018 6:29:30 PM: From Number: +16467591379
+2/5/2018 6:29:30 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:30 PM: Current Date: 2/5/2018 6:29:30 PM
+2/5/2018 6:29:30 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:30 PM:  scheduled days: 11
+2/5/2018 6:29:30 PM: Inside total days comparison
+2/5/2018 6:29:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:30 PM: Successfully send message for scheduled
+2/5/2018 6:29:31 PM: Inside Patient loop
+2/5/2018 6:29:31 PM: To Number: +18375988301
+2/5/2018 6:29:31 PM: From Number: +16467591379
+2/5/2018 6:29:31 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:31 PM: Current Date: 2/5/2018 6:29:31 PM
+2/5/2018 6:29:31 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:31 PM:  scheduled days: -16
+2/5/2018 6:29:31 PM: Inside Patient loop
+2/5/2018 6:29:31 PM: To Number: +18375988304
+2/5/2018 6:29:31 PM: From Number: +16467591379
+2/5/2018 6:29:31 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:31 PM: Current Date: 2/5/2018 6:29:31 PM
+2/5/2018 6:29:31 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:31 PM:  scheduled days: -17
+2/5/2018 6:29:38 PM: Timer 1 has been started.
+2/5/2018 6:29:38 PM: Inside Send Appointment Messages
+2/5/2018 6:29:38 PM: Appointment to +19177481048
+2/5/2018 6:29:39 PM: Appointment from +16467591379
+2/5/2018 6:29:39 PM: currentAppointmentDate 1/5/2018 10:01:00 AM
+2/5/2018 6:29:39 PM: currentDate 2/5/2018 6:29:39 PM
+2/5/2018 6:29:39 PM: day diff:-31
+2/5/2018 6:29:39 PM: calculatedTime:6PM
+2/5/2018 6:29:39 PM: setTime:9am
+2/5/2018 6:29:39 PM: Appointment to +19023387215
+2/5/2018 6:29:39 PM: Appointment from +16467591379
+2/5/2018 6:29:39 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:39 PM: currentDate 2/5/2018 6:29:39 PM
+2/5/2018 6:29:39 PM: day diff:-5
+2/5/2018 6:29:39 PM: calculatedTime:6PM
+2/5/2018 6:29:39 PM: setTime:9am
+2/5/2018 6:29:39 PM: Appointment to +18375988301
+2/5/2018 6:29:39 PM: Appointment from +16467591379
+2/5/2018 6:29:39 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:29:39 PM: currentDate 2/5/2018 6:29:39 PM
+2/5/2018 6:29:39 PM: day diff:17
+2/5/2018 6:29:39 PM: calculatedTime:6PM
+2/5/2018 6:29:39 PM: setTime:9am
+2/5/2018 6:29:39 PM: Appointment to +917986501164
+2/5/2018 6:29:39 PM: Appointment from +16467591379
+2/5/2018 6:29:39 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:29:39 PM: currentDate 2/5/2018 6:29:39 PM
+2/5/2018 6:29:39 PM: day diff:-10
+2/5/2018 6:29:39 PM: calculatedTime:6PM
+2/5/2018 6:29:39 PM: setTime:9am
+2/5/2018 6:29:39 PM: Appointment to +917986501164
+2/5/2018 6:29:39 PM: Appointment from +16467591379
+2/5/2018 6:29:39 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:39 PM: currentDate 2/5/2018 6:29:39 PM
+2/5/2018 6:29:39 PM: day diff:-5
+2/5/2018 6:29:39 PM: calculatedTime:6PM
+2/5/2018 6:29:39 PM: setTime:9am
+2/5/2018 6:29:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:39 PM: Successfully send message for scheduled
+2/5/2018 6:29:39 PM: Inside Patient loop
+2/5/2018 6:29:39 PM: To Number: +19023387215
+2/5/2018 6:29:39 PM: From Number: +16467591379
+2/5/2018 6:29:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:39 PM: Current Date: 2/5/2018 6:29:39 PM
+2/5/2018 6:29:40 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:40 PM:  scheduled days: 11
+2/5/2018 6:29:40 PM: Inside total days comparison
+2/5/2018 6:29:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:40 PM: Successfully send message for scheduled
+2/5/2018 6:29:40 PM: Inside Patient loop
+2/5/2018 6:29:40 PM: To Number: +18375988301
+2/5/2018 6:29:40 PM: From Number: +16467591379
+2/5/2018 6:29:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:40 PM: Current Date: 2/5/2018 6:29:40 PM
+2/5/2018 6:29:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:40 PM:  scheduled days: -16
+2/5/2018 6:29:40 PM: Inside Patient loop
+2/5/2018 6:29:40 PM: To Number: +18375988304
+2/5/2018 6:29:40 PM: From Number: +16467591379
+2/5/2018 6:29:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:40 PM: Current Date: 2/5/2018 6:29:40 PM
+2/5/2018 6:29:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:40 PM:  scheduled days: -17
+2/5/2018 6:29:48 PM: Timer 1 has been started.
+2/5/2018 6:29:48 PM: Inside Send Appointment Messages
+2/5/2018 6:29:48 PM: Inside Patient loop
+2/5/2018 6:29:48 PM: To Number: +917986501164
+2/5/2018 6:29:48 PM: currentDate 2/5/2018 6:29:48 PM
+2/5/2018 6:29:48 PM: day diff:-10
+2/5/2018 6:29:48 PM: calculatedTime:6PM
+2/5/2018 6:29:48 PM: setTime:9am
+2/5/2018 6:29:48 PM: Appointment to +917986501164
+2/5/2018 6:29:48 PM: Appointment from +16467591379
+2/5/2018 6:29:49 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:49 PM: currentDate 2/5/2018 6:29:49 PM
+2/5/2018 6:29:49 PM: day diff:-5
+2/5/2018 6:29:49 PM: calculatedTime:6PM
+2/5/2018 6:29:49 PM: setTime:9am
+2/5/2018 6:29:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:49 PM: Successfully send message for scheduled
+2/5/2018 6:29:49 PM: Inside Patient loop
+2/5/2018 6:29:49 PM: To Number: +19023387215
+2/5/2018 6:29:49 PM: From Number: +16467591379
+2/5/2018 6:29:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:49 PM: Current Date: 2/5/2018 6:29:49 PM
+2/5/2018 6:29:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:29:49 PM:  scheduled days: 11
+2/5/2018 6:29:49 PM: Inside total days comparison
+2/5/2018 6:29:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:29:50 PM: Successfully send message for scheduled
+2/5/2018 6:29:50 PM: Inside Patient loop
+2/5/2018 6:29:50 PM: To Number: +18375988301
+2/5/2018 6:29:50 PM: From Number: +16467591379
+2/5/2018 6:29:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:50 PM: Current Date: 2/5/2018 6:29:50 PM
+2/5/2018 6:29:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:29:50 PM:  scheduled days: -16
+2/5/2018 6:29:50 PM: Inside Patient loop
+2/5/2018 6:29:50 PM: To Number: +18375988304
+2/5/2018 6:29:50 PM: From Number: +16467591379
+2/5/2018 6:29:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:50 PM: Current Date: 2/5/2018 6:29:50 PM
+2/5/2018 6:29:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:29:50 PM:  scheduled days: -17
+2/5/2018 6:29:58 PM: Timer 1 has been started.
+2/5/2018 6:29:58 PM: Inside Send Appointment Messages
+2/5/2018 6:29:58 PM: To Number: +917986501164
+2/5/2018 6:29:58 PM: From Number: +16467591379
+2/5/2018 6:29:58 PM: Appointment from +16467591379
+2/5/2018 6:29:58 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:29:59 PM: currentDate 2/5/2018 6:29:59 PM
+2/5/2018 6:29:59 PM: day diff:-5
+2/5/2018 6:29:59 PM: calculatedTime:6PM
+2/5/2018 6:29:59 PM: setTime:9am
+2/5/2018 6:30:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:00 PM: Successfully send message for scheduled
+2/5/2018 6:30:00 PM: Inside Patient loop
+2/5/2018 6:30:00 PM: To Number: +19023387215
+2/5/2018 6:30:00 PM: From Number: +16467591379
+2/5/2018 6:30:00 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:00 PM: Current Date: 2/5/2018 6:30:00 PM
+2/5/2018 6:30:00 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:00 PM:  scheduled days: 11
+2/5/2018 6:30:00 PM: Inside total days comparison
+2/5/2018 6:30:01 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:01 PM: Successfully send message for scheduled
+2/5/2018 6:30:01 PM: Inside Patient loop
+2/5/2018 6:30:01 PM: To Number: +18375988301
+2/5/2018 6:30:01 PM: From Number: +16467591379
+2/5/2018 6:30:01 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:01 PM: Current Date: 2/5/2018 6:30:01 PM
+2/5/2018 6:30:01 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:01 PM:  scheduled days: -16
+2/5/2018 6:30:01 PM: Inside Patient loop
+2/5/2018 6:30:01 PM: To Number: +18375988304
+2/5/2018 6:30:01 PM: From Number: +16467591379
+2/5/2018 6:30:01 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:01 PM: Current Date: 2/5/2018 6:30:01 PM
+2/5/2018 6:30:01 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:01 PM:  scheduled days: -17
+2/5/2018 6:30:08 PM: Timer 2 has been started.
+2/5/2018 6:30:09 PM: Inside Send Scheduled Messages
+2/5/2018 6:30:09 PM: Inside Patient loop
+2/5/2018 6:30:09 PM: To Number: +917986501164
+2/5/2018 6:30:09 PM: From Number: +16467591379
+2/5/2018 6:30:09 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:09 PM: Current Date: 2/5/2018 6:30:09 PM
+2/5/2018 6:30:09 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:09 PM:  scheduled days: -19
+2/5/2018 6:30:09 PM: Inside Patient loop
+2/5/2018 6:30:09 PM: To Number: +11234567891
+2/5/2018 6:30:09 PM: From Number: +16467591379
+2/5/2018 6:30:09 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:09 PM: Current Date: 2/5/2018 6:30:09 PM
+2/5/2018 6:30:09 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:09 PM:  scheduled days: 27
+2/5/2018 6:30:09 PM: Inside total days comparison
+2/5/2018 6:30:09 PM: Inside Patient loop
+2/5/2018 6:30:09 PM: To Number: +19177481048
+2/5/2018 6:30:09 PM: From Number: +16467591379
+2/5/2018 6:30:09 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:09 PM: Current Date: 2/5/2018 6:30:09 PM
+2/5/2018 6:30:09 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:09 PM:  scheduled days: 6
+2/5/2018 6:30:09 PM: Inside total days comparison
+2/5/2018 6:30:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:09 PM: Successfully send message for scheduled
+2/5/2018 6:30:10 PM: Inside Patient loop
+2/5/2018 6:30:10 PM: To Number: +19023387215
+2/5/2018 6:30:10 PM: From Number: +16467591379
+2/5/2018 6:30:10 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:10 PM: Current Date: 2/5/2018 6:30:10 PM
+2/5/2018 6:30:10 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:10 PM:  scheduled days: 11
+2/5/2018 6:30:10 PM: Inside total days comparison
+2/5/2018 6:30:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:10 PM: Successfully send message for scheduled
+2/5/2018 6:30:10 PM: Inside Patient loop
+2/5/2018 6:30:10 PM: To Number: +18375988301
+2/5/2018 6:30:10 PM: From Number: +16467591379
+2/5/2018 6:30:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:10 PM: Current Date: 2/5/2018 6:30:10 PM
+2/5/2018 6:30:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:10 PM:  scheduled days: -16
+2/5/2018 6:30:10 PM: Inside Patient loop
+2/5/2018 6:30:10 PM: To Number: +18375988304
+2/5/2018 6:30:10 PM: From Number: +16467591379
+2/5/2018 6:30:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:10 PM: Current Date: 2/5/2018 6:30:10 PM
+2/5/2018 6:30:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:10 PM:  scheduled days: -17
+2/5/2018 6:30:18 PM: Timer 2 has been started.
+2/5/2018 6:30:19 PM: setTime:9am
+2/5/2018 6:30:19 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:19 PM: Current Date: 2/5/2018 6:30:19 PM
+2/5/2018 6:30:19 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:19 PM:  scheduled days: 27
+2/5/2018 6:30:19 PM: Inside total days comparison
+2/5/2018 6:30:19 PM: Inside Patient loop
+2/5/2018 6:30:19 PM: To Number: +19177481048
+2/5/2018 6:30:19 PM: From Number: +16467591379
+2/5/2018 6:30:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:19 PM: Current Date: 2/5/2018 6:30:19 PM
+2/5/2018 6:30:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:19 PM:  scheduled days: 6
+2/5/2018 6:30:19 PM: Inside total days comparison
+2/5/2018 6:30:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:19 PM: Successfully send message for scheduled
+2/5/2018 6:30:19 PM: Inside Patient loop
+2/5/2018 6:30:19 PM: To Number: +19023387215
+2/5/2018 6:30:19 PM: From Number: +16467591379
+2/5/2018 6:30:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:19 PM: Current Date: 2/5/2018 6:30:19 PM
+2/5/2018 6:30:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:19 PM:  scheduled days: 11
+2/5/2018 6:30:19 PM: Inside total days comparison
+2/5/2018 6:30:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:20 PM: Successfully send message for scheduled
+2/5/2018 6:30:20 PM: Inside Patient loop
+2/5/2018 6:30:20 PM: To Number: +18375988301
+2/5/2018 6:30:20 PM: From Number: +16467591379
+2/5/2018 6:30:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:20 PM: Current Date: 2/5/2018 6:30:20 PM
+2/5/2018 6:30:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:20 PM:  scheduled days: -16
+2/5/2018 6:30:20 PM: Inside Patient loop
+2/5/2018 6:30:20 PM: To Number: +18375988304
+2/5/2018 6:30:20 PM: From Number: +16467591379
+2/5/2018 6:30:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:20 PM: Current Date: 2/5/2018 6:30:20 PM
+2/5/2018 6:30:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:20 PM:  scheduled days: -17
+2/5/2018 6:30:28 PM: Timer 2 has been started.
+2/5/2018 6:30:29 PM: Inside Send Scheduled Messages
+2/5/2018 6:30:29 PM: Inside Patient loop
+2/5/2018 6:30:29 PM: To Number: +917986501164
+2/5/2018 6:30:29 PM: From Number: +16467591379
+2/5/2018 6:30:29 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:29 PM: Current Date: 2/5/2018 6:30:29 PM
+2/5/2018 6:30:29 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:29 PM:  scheduled days: -19
+2/5/2018 6:30:29 PM: Inside Patient loop
+2/5/2018 6:30:29 PM: To Number: +11234567891
+2/5/2018 6:30:29 PM: From Number: +16467591379
+2/5/2018 6:30:29 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:29 PM: Current Date: 2/5/2018 6:30:29 PM
+2/5/2018 6:30:29 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:29 PM:  scheduled days: 27
+2/5/2018 6:30:29 PM: Inside total days comparison
+2/5/2018 6:30:29 PM: Inside Patient loop
+2/5/2018 6:30:29 PM: To Number: +19177481048
+2/5/2018 6:30:29 PM: From Number: +16467591379
+2/5/2018 6:30:29 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:29 PM: Current Date: 2/5/2018 6:30:29 PM
+2/5/2018 6:30:29 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:29 PM:  scheduled days: 6
+2/5/2018 6:30:29 PM: Inside total days comparison
+2/5/2018 6:30:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:29 PM: Successfully send message for scheduled
+2/5/2018 6:30:29 PM: Inside Patient loop
+2/5/2018 6:30:29 PM: To Number: +19023387215
+2/5/2018 6:30:29 PM: From Number: +16467591379
+2/5/2018 6:30:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:29 PM: Current Date: 2/5/2018 6:30:29 PM
+2/5/2018 6:30:30 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:30 PM:  scheduled days: 11
+2/5/2018 6:30:30 PM: Inside total days comparison
+2/5/2018 6:30:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:30 PM: Successfully send message for scheduled
+2/5/2018 6:30:30 PM: Inside Patient loop
+2/5/2018 6:30:30 PM: To Number: +18375988301
+2/5/2018 6:30:30 PM: From Number: +16467591379
+2/5/2018 6:30:30 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:30 PM: Current Date: 2/5/2018 6:30:30 PM
+2/5/2018 6:30:30 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:30 PM:  scheduled days: -16
+2/5/2018 6:30:30 PM: Inside Patient loop
+2/5/2018 6:30:30 PM: To Number: +18375988304
+2/5/2018 6:30:30 PM: From Number: +16467591379
+2/5/2018 6:30:30 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:30 PM: Current Date: 2/5/2018 6:30:30 PM
+2/5/2018 6:30:30 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:30 PM:  scheduled days: -17
+2/5/2018 6:30:38 PM: Timer 2 has been started.
+2/5/2018 6:30:39 PM: setTime:9am
+2/5/2018 6:30:39 PM: Inside Patient loop
+2/5/2018 6:30:39 PM: To Number: +917986501164
+2/5/2018 6:30:39 PM: From Number: +16467591379
+2/5/2018 6:30:39 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:39 PM: Current Date: 2/5/2018 6:30:39 PM
+2/5/2018 6:30:39 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:39 PM:  scheduled days: -19
+2/5/2018 6:30:39 PM: Inside Patient loop
+2/5/2018 6:30:39 PM: To Number: +11234567891
+2/5/2018 6:30:39 PM: From Number: +16467591379
+2/5/2018 6:30:39 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:39 PM: Current Date: 2/5/2018 6:30:39 PM
+2/5/2018 6:30:39 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:39 PM:  scheduled days: 27
+2/5/2018 6:30:39 PM: Inside total days comparison
+2/5/2018 6:30:39 PM: Inside Patient loop
+2/5/2018 6:30:39 PM: To Number: +19177481048
+2/5/2018 6:30:39 PM: From Number: +16467591379
+2/5/2018 6:30:39 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:39 PM: Current Date: 2/5/2018 6:30:39 PM
+2/5/2018 6:30:39 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:39 PM:  scheduled days: 6
+2/5/2018 6:30:39 PM: Inside total days comparison
+2/5/2018 6:30:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:40 PM: Successfully send message for scheduled
+2/5/2018 6:30:40 PM: Inside Patient loop
+2/5/2018 6:30:40 PM: To Number: +19023387215
+2/5/2018 6:30:40 PM: From Number: +16467591379
+2/5/2018 6:30:40 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:40 PM: Current Date: 2/5/2018 6:30:40 PM
+2/5/2018 6:30:40 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:40 PM:  scheduled days: 11
+2/5/2018 6:30:40 PM: Inside total days comparison
+2/5/2018 6:30:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:40 PM: Successfully send message for scheduled
+2/5/2018 6:30:40 PM: Inside Patient loop
+2/5/2018 6:30:40 PM: To Number: +18375988301
+2/5/2018 6:30:40 PM: From Number: +16467591379
+2/5/2018 6:30:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:40 PM: Current Date: 2/5/2018 6:30:40 PM
+2/5/2018 6:30:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:40 PM:  scheduled days: -16
+2/5/2018 6:30:41 PM: Inside Patient loop
+2/5/2018 6:30:41 PM: To Number: +18375988304
+2/5/2018 6:30:41 PM: From Number: +16467591379
+2/5/2018 6:30:41 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:41 PM: Current Date: 2/5/2018 6:30:41 PM
+2/5/2018 6:30:41 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:41 PM:  scheduled days: -17
+2/5/2018 6:30:48 PM: Timer 2 has been started.
+2/5/2018 6:30:49 PM: currentDate 2/5/2018 6:30:49 PM
+2/5/2018 6:30:49 PM: Current Date: 2/5/2018 6:30:49 PM
+2/5/2018 6:30:49 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:49 PM:  scheduled days: -19
+2/5/2018 6:30:49 PM: Inside Patient loop
+2/5/2018 6:30:49 PM: To Number: +11234567891
+2/5/2018 6:30:49 PM: From Number: +16467591379
+2/5/2018 6:30:49 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:49 PM: Current Date: 2/5/2018 6:30:49 PM
+2/5/2018 6:30:49 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:49 PM:  scheduled days: 27
+2/5/2018 6:30:49 PM: Inside total days comparison
+2/5/2018 6:30:49 PM: Inside Patient loop
+2/5/2018 6:30:49 PM: To Number: +19177481048
+2/5/2018 6:30:49 PM: From Number: +16467591379
+2/5/2018 6:30:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:49 PM: Current Date: 2/5/2018 6:30:49 PM
+2/5/2018 6:30:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:49 PM:  scheduled days: 6
+2/5/2018 6:30:49 PM: Inside total days comparison
+2/5/2018 6:30:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:49 PM: Successfully send message for scheduled
+2/5/2018 6:30:49 PM: Inside Patient loop
+2/5/2018 6:30:49 PM: To Number: +19023387215
+2/5/2018 6:30:49 PM: From Number: +16467591379
+2/5/2018 6:30:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:49 PM: Current Date: 2/5/2018 6:30:49 PM
+2/5/2018 6:30:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:30:49 PM:  scheduled days: 11
+2/5/2018 6:30:49 PM: Inside total days comparison
+2/5/2018 6:30:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:30:50 PM: Successfully send message for scheduled
+2/5/2018 6:30:50 PM: Inside Patient loop
+2/5/2018 6:30:50 PM: To Number: +18375988301
+2/5/2018 6:30:50 PM: From Number: +16467591379
+2/5/2018 6:30:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:50 PM: Current Date: 2/5/2018 6:30:50 PM
+2/5/2018 6:30:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:30:50 PM:  scheduled days: -16
+2/5/2018 6:30:50 PM: Inside Patient loop
+2/5/2018 6:30:50 PM: To Number: +18375988304
+2/5/2018 6:30:50 PM: From Number: +16467591379
+2/5/2018 6:30:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:50 PM: Current Date: 2/5/2018 6:30:50 PM
+2/5/2018 6:30:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:30:50 PM:  scheduled days: -17
+2/5/2018 6:30:58 PM: Timer 2 has been started.
+2/5/2018 6:30:59 PM: Inside Send Scheduled Messages
+2/5/2018 6:30:59 PM: Inside Patient loop
+2/5/2018 6:30:59 PM: To Number: +917986501164
+2/5/2018 6:30:59 PM: From Number: +16467591379
+2/5/2018 6:30:59 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:59 PM: Current Date: 2/5/2018 6:30:59 PM
+2/5/2018 6:30:59 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:30:59 PM:  scheduled days: -19
+2/5/2018 6:30:59 PM: Inside Patient loop
+2/5/2018 6:30:59 PM: To Number: +11234567891
+2/5/2018 6:30:59 PM: From Number: +16467591379
+2/5/2018 6:30:59 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:59 PM: Current Date: 2/5/2018 6:30:59 PM
+2/5/2018 6:30:59 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:30:59 PM:  scheduled days: 27
+2/5/2018 6:30:59 PM: Inside total days comparison
+2/5/2018 6:30:59 PM: Inside Patient loop
+2/5/2018 6:30:59 PM: To Number: +19177481048
+2/5/2018 6:30:59 PM: From Number: +16467591379
+2/5/2018 6:30:59 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:59 PM: Current Date: 2/5/2018 6:30:59 PM
+2/5/2018 6:30:59 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:30:59 PM:  scheduled days: 6
+2/5/2018 6:30:59 PM: Inside total days comparison
+2/5/2018 6:31:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:00 PM: Successfully send message for scheduled
+2/5/2018 6:31:00 PM: Inside Patient loop
+2/5/2018 6:31:00 PM: To Number: +19023387215
+2/5/2018 6:31:00 PM: From Number: +16467591379
+2/5/2018 6:31:00 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:00 PM: Current Date: 2/5/2018 6:31:00 PM
+2/5/2018 6:31:00 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:00 PM:  scheduled days: 11
+2/5/2018 6:31:00 PM: Inside total days comparison
+2/5/2018 6:31:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:00 PM: Successfully send message for scheduled
+2/5/2018 6:31:00 PM: Inside Patient loop
+2/5/2018 6:31:00 PM: To Number: +18375988301
+2/5/2018 6:31:00 PM: From Number: +16467591379
+2/5/2018 6:31:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:00 PM: Current Date: 2/5/2018 6:31:00 PM
+2/5/2018 6:31:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:00 PM:  scheduled days: -16
+2/5/2018 6:31:00 PM: Inside Patient loop
+2/5/2018 6:31:00 PM: To Number: +18375988304
+2/5/2018 6:31:00 PM: From Number: +16467591379
+2/5/2018 6:31:01 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:01 PM: Current Date: 2/5/2018 6:31:01 PM
+2/5/2018 6:31:01 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:01 PM:  scheduled days: -17
+2/5/2018 6:31:08 PM: Timer 2 has been started.
+2/5/2018 6:31:09 PM: Inside Send Scheduled Messages
+2/5/2018 6:31:09 PM: Inside Patient loop
+2/5/2018 6:31:09 PM: To Number: +917986501164
+2/5/2018 6:31:09 PM: From Number: +16467591379
+2/5/2018 6:31:09 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:09 PM: Current Date: 2/5/2018 6:31:09 PM
+2/5/2018 6:31:09 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:09 PM:  scheduled days: -19
+2/5/2018 6:31:09 PM: Inside Patient loop
+2/5/2018 6:31:09 PM: To Number: +11234567891
+2/5/2018 6:31:09 PM: From Number: +16467591379
+2/5/2018 6:31:09 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:09 PM: Current Date: 2/5/2018 6:31:09 PM
+2/5/2018 6:31:09 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:09 PM:  scheduled days: 27
+2/5/2018 6:31:09 PM: Inside total days comparison
+2/5/2018 6:31:09 PM: Inside Patient loop
+2/5/2018 6:31:09 PM: To Number: +19177481048
+2/5/2018 6:31:09 PM: From Number: +16467591379
+2/5/2018 6:31:09 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:09 PM: Current Date: 2/5/2018 6:31:09 PM
+2/5/2018 6:31:09 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:09 PM:  scheduled days: 6
+2/5/2018 6:31:09 PM: Inside total days comparison
+2/5/2018 6:31:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:09 PM: Successfully send message for scheduled
+2/5/2018 6:31:09 PM: Inside Patient loop
+2/5/2018 6:31:09 PM: To Number: +19023387215
+2/5/2018 6:31:09 PM: From Number: +16467591379
+2/5/2018 6:31:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:09 PM: Current Date: 2/5/2018 6:31:09 PM
+2/5/2018 6:31:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:09 PM:  scheduled days: 11
+2/5/2018 6:31:09 PM: Inside total days comparison
+2/5/2018 6:31:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:11 PM: Successfully send message for scheduled
+2/5/2018 6:31:11 PM: Inside Patient loop
+2/5/2018 6:31:11 PM: To Number: +18375988301
+2/5/2018 6:31:11 PM: From Number: +16467591379
+2/5/2018 6:31:11 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:11 PM: Current Date: 2/5/2018 6:31:11 PM
+2/5/2018 6:31:11 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:11 PM:  scheduled days: -16
+2/5/2018 6:31:11 PM: Inside Patient loop
+2/5/2018 6:31:11 PM: To Number: +18375988304
+2/5/2018 6:31:11 PM: From Number: +16467591379
+2/5/2018 6:31:11 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:11 PM: Current Date: 2/5/2018 6:31:11 PM
+2/5/2018 6:31:11 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:11 PM:  scheduled days: -17
+2/5/2018 6:31:19 PM: Timer 2 has been started.
+2/5/2018 6:31:19 PM: Inside Send Scheduled Messages
+2/5/2018 6:31:19 PM: Appointment from +16467591379
+2/5/2018 6:31:19 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:31:19 PM: currentDate 2/5/2018 6:31:19 PM
+2/5/2018 6:31:19 PM: day diff:-5
+2/5/2018 6:31:19 PM: calculatedTime:6PM
+2/5/2018 6:31:19 PM: setTime:9am
+2/5/2018 6:31:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:19 PM: Successfully send message for scheduled
+2/5/2018 6:31:19 PM: Inside Patient loop
+2/5/2018 6:31:19 PM: To Number: +19023387215
+2/5/2018 6:31:19 PM: From Number: +16467591379
+2/5/2018 6:31:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:19 PM: Current Date: 2/5/2018 6:31:19 PM
+2/5/2018 6:31:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:19 PM:  scheduled days: 11
+2/5/2018 6:31:19 PM: Inside total days comparison
+2/5/2018 6:31:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:20 PM: Successfully send message for scheduled
+2/5/2018 6:31:20 PM: Inside Patient loop
+2/5/2018 6:31:20 PM: To Number: +18375988301
+2/5/2018 6:31:20 PM: From Number: +16467591379
+2/5/2018 6:31:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:20 PM: Current Date: 2/5/2018 6:31:20 PM
+2/5/2018 6:31:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:20 PM:  scheduled days: -16
+2/5/2018 6:31:20 PM: Inside Patient loop
+2/5/2018 6:31:20 PM: To Number: +18375988304
+2/5/2018 6:31:20 PM: From Number: +16467591379
+2/5/2018 6:31:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:20 PM: Current Date: 2/5/2018 6:31:20 PM
+2/5/2018 6:31:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:20 PM:  scheduled days: -17
+2/5/2018 6:31:29 PM: Timer 2 has been started.
+2/5/2018 6:31:29 PM: Inside Send Scheduled Messages
+2/5/2018 6:31:29 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:31:29 PM: currentDate 2/5/2018 6:31:29 PM
+2/5/2018 6:31:29 PM: day diff:17
+2/5/2018 6:31:29 PM: calculatedTime:6PM
+2/5/2018 6:31:29 PM: setTime:9am
+2/5/2018 6:31:29 PM: Appointment to +917986501164
+2/5/2018 6:31:29 PM: Appointment from +16467591379
+2/5/2018 6:31:29 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:31:29 PM: currentDate 2/5/2018 6:31:29 PM
+2/5/2018 6:31:29 PM: day diff:-10
+2/5/2018 6:31:29 PM: calculatedTime:6PM
+2/5/2018 6:31:29 PM: setTime:9am
+2/5/2018 6:31:29 PM: Appointment to +917986501164
+2/5/2018 6:31:29 PM: Appointment from +16467591379
+2/5/2018 6:31:29 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:31:29 PM: currentDate 2/5/2018 6:31:29 PM
+2/5/2018 6:31:29 PM: day diff:-5
+2/5/2018 6:31:29 PM: calculatedTime:6PM
+2/5/2018 6:31:29 PM: setTime:9am
+2/5/2018 6:31:29 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:29 PM: Successfully send message for scheduled
+2/5/2018 6:31:29 PM: Inside Patient loop
+2/5/2018 6:31:29 PM: To Number: +19023387215
+2/5/2018 6:31:29 PM: From Number: +16467591379
+2/5/2018 6:31:29 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:29 PM: Current Date: 2/5/2018 6:31:29 PM
+2/5/2018 6:31:29 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:29 PM:  scheduled days: 11
+2/5/2018 6:31:29 PM: Inside total days comparison
+2/5/2018 6:31:30 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:30 PM: Successfully send message for scheduled
+2/5/2018 6:31:30 PM: Inside Patient loop
+2/5/2018 6:31:30 PM: To Number: +18375988301
+2/5/2018 6:31:30 PM: From Number: +16467591379
+2/5/2018 6:31:30 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:30 PM: Current Date: 2/5/2018 6:31:30 PM
+2/5/2018 6:31:30 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:30 PM:  scheduled days: -16
+2/5/2018 6:31:30 PM: Inside Patient loop
+2/5/2018 6:31:30 PM: To Number: +18375988304
+2/5/2018 6:31:30 PM: From Number: +16467591379
+2/5/2018 6:31:30 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:30 PM: Current Date: 2/5/2018 6:31:30 PM
+2/5/2018 6:31:30 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:30 PM:  scheduled days: -17
+2/5/2018 6:31:39 PM: Timer 1 has been started.
+2/5/2018 6:31:39 PM: Inside Send Appointment Messages
+2/5/2018 6:31:39 PM: From Number: +16467591379
+2/5/2018 6:31:39 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:39 PM: day diff:-10
+2/5/2018 6:31:39 PM: calculatedTime:6PM
+2/5/2018 6:31:39 PM: setTime:9am
+2/5/2018 6:31:39 PM: Appointment to +917986501164
+2/5/2018 6:31:39 PM: Appointment from +16467591379
+2/5/2018 6:31:39 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:31:39 PM: currentDate 2/5/2018 6:31:39 PM
+2/5/2018 6:31:39 PM: day diff:-5
+2/5/2018 6:31:39 PM: calculatedTime:6PM
+2/5/2018 6:31:39 PM: setTime:9am
+2/5/2018 6:31:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:39 PM: Successfully send message for scheduled
+2/5/2018 6:31:39 PM: Inside Patient loop
+2/5/2018 6:31:39 PM: To Number: +19023387215
+2/5/2018 6:31:39 PM: From Number: +16467591379
+2/5/2018 6:31:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:39 PM: Current Date: 2/5/2018 6:31:39 PM
+2/5/2018 6:31:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:39 PM:  scheduled days: 11
+2/5/2018 6:31:39 PM: Inside total days comparison
+2/5/2018 6:31:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:40 PM: Successfully send message for scheduled
+2/5/2018 6:31:40 PM: Inside Patient loop
+2/5/2018 6:31:40 PM: To Number: +18375988301
+2/5/2018 6:31:40 PM: From Number: +16467591379
+2/5/2018 6:31:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:40 PM: Current Date: 2/5/2018 6:31:40 PM
+2/5/2018 6:31:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:40 PM:  scheduled days: -16
+2/5/2018 6:31:40 PM: Inside Patient loop
+2/5/2018 6:31:40 PM: To Number: +18375988304
+2/5/2018 6:31:40 PM: From Number: +16467591379
+2/5/2018 6:31:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:40 PM: Current Date: 2/5/2018 6:31:40 PM
+2/5/2018 6:31:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:40 PM:  scheduled days: -17
+2/5/2018 6:31:49 PM: Timer 2 has been started.
+2/5/2018 6:31:49 PM: Inside Send Scheduled Messages
+2/5/2018 6:31:49 PM: Inside Patient loop
+2/5/2018 6:31:49 PM: To Number: +917986501164
+2/5/2018 6:31:49 PM: From Number: +16467591379
+2/5/2018 6:31:49 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:49 PM: Current Date: 2/5/2018 6:31:49 PM
+2/5/2018 6:31:49 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:49 PM:  scheduled days: -19
+2/5/2018 6:31:49 PM: Inside Patient loop
+2/5/2018 6:31:49 PM: To Number: +11234567891
+2/5/2018 6:31:49 PM: From Number: +16467591379
+2/5/2018 6:31:49 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:49 PM: Current Date: 2/5/2018 6:31:49 PM
+2/5/2018 6:31:49 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:49 PM:  scheduled days: 27
+2/5/2018 6:31:49 PM: Inside total days comparison
+2/5/2018 6:31:49 PM: Inside Patient loop
+2/5/2018 6:31:49 PM: To Number: +19177481048
+2/5/2018 6:31:49 PM: From Number: +16467591379
+2/5/2018 6:31:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:49 PM: Current Date: 2/5/2018 6:31:49 PM
+2/5/2018 6:31:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:49 PM:  scheduled days: 6
+2/5/2018 6:31:49 PM: Inside total days comparison
+2/5/2018 6:31:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:49 PM: Successfully send message for scheduled
+2/5/2018 6:31:49 PM: Inside Patient loop
+2/5/2018 6:31:49 PM: To Number: +19023387215
+2/5/2018 6:31:49 PM: From Number: +16467591379
+2/5/2018 6:31:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:49 PM: Current Date: 2/5/2018 6:31:49 PM
+2/5/2018 6:31:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:31:50 PM:  scheduled days: 11
+2/5/2018 6:31:50 PM: Inside total days comparison
+2/5/2018 6:31:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:31:50 PM: Successfully send message for scheduled
+2/5/2018 6:31:50 PM: Inside Patient loop
+2/5/2018 6:31:50 PM: To Number: +18375988301
+2/5/2018 6:31:50 PM: From Number: +16467591379
+2/5/2018 6:31:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:50 PM: Current Date: 2/5/2018 6:31:50 PM
+2/5/2018 6:31:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:31:50 PM:  scheduled days: -16
+2/5/2018 6:31:50 PM: Inside Patient loop
+2/5/2018 6:31:50 PM: To Number: +18375988304
+2/5/2018 6:31:50 PM: From Number: +16467591379
+2/5/2018 6:31:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:50 PM: Current Date: 2/5/2018 6:31:50 PM
+2/5/2018 6:31:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:31:50 PM:  scheduled days: -17
+2/5/2018 6:31:59 PM: Timer 2 has been started.
+2/5/2018 6:31:59 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:31:59 PM: Current Date: 2/5/2018 6:31:59 PM
+2/5/2018 6:31:59 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:31:59 PM:  scheduled days: -19
+2/5/2018 6:31:59 PM: Inside Patient loop
+2/5/2018 6:31:59 PM: To Number: +11234567891
+2/5/2018 6:31:59 PM: From Number: +16467591379
+2/5/2018 6:31:59 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:59 PM: Current Date: 2/5/2018 6:31:59 PM
+2/5/2018 6:31:59 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:31:59 PM:  scheduled days: 27
+2/5/2018 6:31:59 PM: Inside total days comparison
+2/5/2018 6:31:59 PM: Inside Patient loop
+2/5/2018 6:31:59 PM: To Number: +19177481048
+2/5/2018 6:31:59 PM: From Number: +16467591379
+2/5/2018 6:31:59 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:59 PM: Current Date: 2/5/2018 6:31:59 PM
+2/5/2018 6:31:59 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:31:59 PM:  scheduled days: 6
+2/5/2018 6:31:59 PM: Inside total days comparison
+2/5/2018 6:32:01 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:01 PM: Successfully send message for scheduled
+2/5/2018 6:32:01 PM: Inside Patient loop
+2/5/2018 6:32:01 PM: To Number: +19023387215
+2/5/2018 6:32:01 PM: From Number: +16467591379
+2/5/2018 6:32:01 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:01 PM: Current Date: 2/5/2018 6:32:01 PM
+2/5/2018 6:32:01 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:01 PM:  scheduled days: 11
+2/5/2018 6:32:01 PM: Inside total days comparison
+2/5/2018 6:32:03 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:03 PM: Successfully send message for scheduled
+2/5/2018 6:32:03 PM: Inside Patient loop
+2/5/2018 6:32:03 PM: To Number: +18375988301
+2/5/2018 6:32:03 PM: From Number: +16467591379
+2/5/2018 6:32:03 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:03 PM: Current Date: 2/5/2018 6:32:03 PM
+2/5/2018 6:32:03 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:03 PM:  scheduled days: -16
+2/5/2018 6:32:03 PM: Inside Patient loop
+2/5/2018 6:32:03 PM: To Number: +18375988304
+2/5/2018 6:32:03 PM: From Number: +16467591379
+2/5/2018 6:32:03 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:03 PM: Current Date: 2/5/2018 6:32:03 PM
+2/5/2018 6:32:03 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:03 PM:  scheduled days: -17
+2/5/2018 6:32:09 PM: Timer 2 has been started.
+2/5/2018 6:32:09 PM: currentDate 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: day diff:-31
+2/5/2018 6:32:09 PM: calculatedTime:6PM
+2/5/2018 6:32:09 PM: setTime:9am
+2/5/2018 6:32:09 PM: Appointment to +19023387215
+2/5/2018 6:32:09 PM: Appointment from +16467591379
+2/5/2018 6:32:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:32:09 PM: currentDate 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: day diff:-5
+2/5/2018 6:32:09 PM: calculatedTime:6PM
+2/5/2018 6:32:09 PM: setTime:9am
+2/5/2018 6:32:09 PM: Appointment to +18375988301
+2/5/2018 6:32:09 PM: Appointment from +16467591379
+2/5/2018 6:32:09 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:32:09 PM: currentDate 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: day diff:17
+2/5/2018 6:32:09 PM: calculatedTime:6PM
+2/5/2018 6:32:09 PM: setTime:9am
+2/5/2018 6:32:09 PM: Appointment to +917986501164
+2/5/2018 6:32:09 PM: Appointment from +16467591379
+2/5/2018 6:32:09 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:32:09 PM: currentDate 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: day diff:-10
+2/5/2018 6:32:09 PM: calculatedTime:6PM
+2/5/2018 6:32:09 PM: setTime:9am
+2/5/2018 6:32:09 PM: Appointment to +917986501164
+2/5/2018 6:32:09 PM: Appointment from +16467591379
+2/5/2018 6:32:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:32:09 PM: currentDate 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: day diff:-5
+2/5/2018 6:32:09 PM: calculatedTime:6PM
+2/5/2018 6:32:09 PM: setTime:9am
+2/5/2018 6:32:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:09 PM: Successfully send message for scheduled
+2/5/2018 6:32:09 PM: Inside Patient loop
+2/5/2018 6:32:09 PM: To Number: +19023387215
+2/5/2018 6:32:09 PM: From Number: +16467591379
+2/5/2018 6:32:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:09 PM: Current Date: 2/5/2018 6:32:09 PM
+2/5/2018 6:32:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:09 PM:  scheduled days: 11
+2/5/2018 6:32:09 PM: Inside total days comparison
+2/5/2018 6:32:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:10 PM: Successfully send message for scheduled
+2/5/2018 6:32:10 PM: Inside Patient loop
+2/5/2018 6:32:10 PM: To Number: +18375988301
+2/5/2018 6:32:10 PM: From Number: +16467591379
+2/5/2018 6:32:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:10 PM: Current Date: 2/5/2018 6:32:10 PM
+2/5/2018 6:32:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:10 PM:  scheduled days: -16
+2/5/2018 6:32:10 PM: Inside Patient loop
+2/5/2018 6:32:10 PM: To Number: +18375988304
+2/5/2018 6:32:10 PM: From Number: +16467591379
+2/5/2018 6:32:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:10 PM: Current Date: 2/5/2018 6:32:10 PM
+2/5/2018 6:32:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:10 PM:  scheduled days: -17
+2/5/2018 6:32:19 PM: Timer 2 has been started.
+2/5/2018 6:32:19 PM: setTime:9am
+2/5/2018 6:32:19 PM: Inside Patient loop
+2/5/2018 6:32:19 PM: To Number: +917986501164
+2/5/2018 6:32:19 PM: From Number: +16467591379
+2/5/2018 6:32:19 PM: EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:32:19 PM: Current Date: 2/5/2018 6:32:19 PM
+2/5/2018 6:32:19 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:32:19 PM:  scheduled days: -19
+2/5/2018 6:32:19 PM: Inside Patient loop
+2/5/2018 6:32:19 PM: To Number: +11234567891
+2/5/2018 6:32:19 PM: From Number: +16467591379
+2/5/2018 6:32:19 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:32:19 PM: Current Date: 2/5/2018 6:32:19 PM
+2/5/2018 6:32:19 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:32:19 PM:  scheduled days: 27
+2/5/2018 6:32:19 PM: Inside total days comparison
+2/5/2018 6:32:19 PM: Inside Patient loop
+2/5/2018 6:32:19 PM: To Number: +19177481048
+2/5/2018 6:32:19 PM: From Number: +16467591379
+2/5/2018 6:32:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:32:19 PM: Current Date: 2/5/2018 6:32:19 PM
+2/5/2018 6:32:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:32:19 PM:  scheduled days: 6
+2/5/2018 6:32:19 PM: Inside total days comparison
+2/5/2018 6:32:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:19 PM: Successfully send message for scheduled
+2/5/2018 6:32:19 PM: Inside Patient loop
+2/5/2018 6:32:19 PM: To Number: +19023387215
+2/5/2018 6:32:19 PM: From Number: +16467591379
+2/5/2018 6:32:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:19 PM: Current Date: 2/5/2018 6:32:19 PM
+2/5/2018 6:32:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:19 PM:  scheduled days: 11
+2/5/2018 6:32:19 PM: Inside total days comparison
+2/5/2018 6:32:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:20 PM: Successfully send message for scheduled
+2/5/2018 6:32:20 PM: Inside Patient loop
+2/5/2018 6:32:20 PM: To Number: +18375988301
+2/5/2018 6:32:20 PM: From Number: +16467591379
+2/5/2018 6:32:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:20 PM: Current Date: 2/5/2018 6:32:20 PM
+2/5/2018 6:32:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:20 PM:  scheduled days: -16
+2/5/2018 6:32:20 PM: Inside Patient loop
+2/5/2018 6:32:20 PM: To Number: +18375988304
+2/5/2018 6:32:20 PM: From Number: +16467591379
+2/5/2018 6:32:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:20 PM: Current Date: 2/5/2018 6:32:20 PM
+2/5/2018 6:32:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:20 PM:  scheduled days: -17
+2/5/2018 6:32:29 PM: Timer 2 has been started.
+2/5/2018 6:32:29 PM: Inside Send Scheduled Messages
+2/5/2018 6:32:38 PM: Inside Patient loop
+2/5/2018 6:32:38 PM: To Number: +917986501164
+2/5/2018 6:32:38 PM: currentAppointmentDate 1/5/2018 10:01:00 AM
+2/5/2018 6:32:38 PM: currentDate 2/5/2018 6:32:38 PM
+2/5/2018 6:32:38 PM: day diff:-31
+2/5/2018 6:32:38 PM: calculatedTime:6PM
+2/5/2018 6:32:38 PM: setTime:9am
+2/5/2018 6:32:38 PM: Appointment to +19023387215
+2/5/2018 6:32:38 PM: Appointment from +16467591379
+2/5/2018 6:32:38 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:32:38 PM: currentDate 2/5/2018 6:32:38 PM
+2/5/2018 6:32:38 PM: day diff:-5
+2/5/2018 6:32:38 PM: calculatedTime:6PM
+2/5/2018 6:32:38 PM: setTime:9am
+2/5/2018 6:32:38 PM: Appointment to +18375988301
+2/5/2018 6:32:38 PM: Appointment from +16467591379
+2/5/2018 6:32:38 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:32:38 PM: currentDate 2/5/2018 6:32:38 PM
+2/5/2018 6:32:38 PM: day diff:17
+2/5/2018 6:32:38 PM: calculatedTime:6PM
+2/5/2018 6:32:38 PM: setTime:9am
+2/5/2018 6:32:38 PM: Appointment to +917986501164
+2/5/2018 6:32:38 PM: Appointment from +16467591379
+2/5/2018 6:32:38 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:32:38 PM: currentDate 2/5/2018 6:32:38 PM
+2/5/2018 6:32:38 PM: day diff:-10
+2/5/2018 6:32:38 PM: calculatedTime:6PM
+2/5/2018 6:32:38 PM: setTime:9am
+2/5/2018 6:32:38 PM: Appointment to +917986501164
+2/5/2018 6:32:38 PM: Appointment from +16467591379
+2/5/2018 6:32:38 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:32:38 PM: currentDate 2/5/2018 6:32:38 PM
+2/5/2018 6:32:38 PM: day diff:-5
+2/5/2018 6:32:38 PM: calculatedTime:6PM
+2/5/2018 6:32:38 PM: setTime:9am
+2/5/2018 6:32:39 PM: Timer 2 has been started.
+2/5/2018 6:32:39 PM: Inside Send Scheduled Messages
+2/5/2018 6:32:39 PM: currentDate 2/5/2018 6:32:39 PM
+2/5/2018 6:32:39 PM: day diff:-5
+2/5/2018 6:32:39 PM: calculatedTime:6PM
+2/5/2018 6:32:39 PM: setTime:9am
+2/5/2018 6:32:39 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:39 PM: Successfully send message for scheduled
+2/5/2018 6:32:39 PM: Inside Patient loop
+2/5/2018 6:32:39 PM: To Number: +19023387215
+2/5/2018 6:32:39 PM: From Number: +16467591379
+2/5/2018 6:32:39 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:39 PM: Current Date: 2/5/2018 6:32:39 PM
+2/5/2018 6:32:39 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:39 PM:  scheduled days: 11
+2/5/2018 6:32:39 PM: Inside total days comparison
+2/5/2018 6:32:40 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:40 PM: Successfully send message for scheduled
+2/5/2018 6:32:40 PM: Inside Patient loop
+2/5/2018 6:32:40 PM: To Number: +18375988301
+2/5/2018 6:32:40 PM: From Number: +16467591379
+2/5/2018 6:32:40 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:40 PM: Current Date: 2/5/2018 6:32:40 PM
+2/5/2018 6:32:40 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:40 PM:  scheduled days: -16
+2/5/2018 6:32:40 PM: Inside Patient loop
+2/5/2018 6:32:40 PM: To Number: +18375988304
+2/5/2018 6:32:40 PM: From Number: +16467591379
+2/5/2018 6:32:40 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:40 PM: Current Date: 2/5/2018 6:32:40 PM
+2/5/2018 6:32:40 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:40 PM:  scheduled days: -17
+2/5/2018 6:32:41 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:41 PM: Successfully send message for scheduled
+2/5/2018 6:32:41 PM: Inside Patient loop
+2/5/2018 6:32:41 PM: To Number: +19023387215
+2/5/2018 6:32:41 PM: From Number: +16467591379
+2/5/2018 6:32:41 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:41 PM: Current Date: 2/5/2018 6:32:41 PM
+2/5/2018 6:32:41 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:41 PM:  scheduled days: 11
+2/5/2018 6:32:41 PM: Inside total days comparison
+2/5/2018 6:32:42 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:42 PM: Successfully send message for scheduled
+2/5/2018 6:32:42 PM: Inside Patient loop
+2/5/2018 6:32:42 PM: To Number: +18375988301
+2/5/2018 6:32:42 PM: From Number: +16467591379
+2/5/2018 6:32:42 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:42 PM: Current Date: 2/5/2018 6:32:42 PM
+2/5/2018 6:32:42 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:42 PM:  scheduled days: -16
+2/5/2018 6:32:42 PM: Inside Patient loop
+2/5/2018 6:32:42 PM: To Number: +18375988304
+2/5/2018 6:32:42 PM: From Number: +16467591379
+2/5/2018 6:32:42 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:42 PM: Current Date: 2/5/2018 6:32:42 PM
+2/5/2018 6:32:42 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:42 PM:  scheduled days: -17
+2/5/2018 6:32:49 PM: Timer 2 has been started.
+2/5/2018 6:32:49 PM: Inside Send Scheduled Messages
+2/5/2018 6:32:49 PM: calculatedTime:6PM
+2/5/2018 6:32:49 PM:  scheduled days: -19
+2/5/2018 6:32:49 PM: Inside Patient loop
+2/5/2018 6:32:49 PM: To Number: +11234567891
+2/5/2018 6:32:49 PM: From Number: +16467591379
+2/5/2018 6:32:49 PM: EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:32:49 PM: Current Date: 2/5/2018 6:32:49 PM
+2/5/2018 6:32:49 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:32:49 PM:  scheduled days: 27
+2/5/2018 6:32:49 PM: Inside total days comparison
+2/5/2018 6:32:49 PM: Inside Patient loop
+2/5/2018 6:32:49 PM: To Number: +19177481048
+2/5/2018 6:32:49 PM: From Number: +16467591379
+2/5/2018 6:32:49 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:32:49 PM: Current Date: 2/5/2018 6:32:49 PM
+2/5/2018 6:32:49 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:32:49 PM:  scheduled days: 6
+2/5/2018 6:32:49 PM: Inside total days comparison
+2/5/2018 6:32:49 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:49 PM: Successfully send message for scheduled
+2/5/2018 6:32:49 PM: Inside Patient loop
+2/5/2018 6:32:49 PM: To Number: +19023387215
+2/5/2018 6:32:49 PM: From Number: +16467591379
+2/5/2018 6:32:49 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:49 PM: Current Date: 2/5/2018 6:32:49 PM
+2/5/2018 6:32:49 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:49 PM:  scheduled days: 11
+2/5/2018 6:32:49 PM: Inside total days comparison
+2/5/2018 6:32:50 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:50 PM: Successfully send message for scheduled
+2/5/2018 6:32:50 PM: Inside Patient loop
+2/5/2018 6:32:50 PM: To Number: +18375988301
+2/5/2018 6:32:50 PM: From Number: +16467591379
+2/5/2018 6:32:50 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:50 PM: Current Date: 2/5/2018 6:32:50 PM
+2/5/2018 6:32:50 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:32:50 PM:  scheduled days: -16
+2/5/2018 6:32:50 PM: Inside Patient loop
+2/5/2018 6:32:50 PM: To Number: +18375988304
+2/5/2018 6:32:50 PM: From Number: +16467591379
+2/5/2018 6:32:50 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:50 PM: Current Date: 2/5/2018 6:32:50 PM
+2/5/2018 6:32:50 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:32:50 PM:  scheduled days: -17
+2/5/2018 6:32:59 PM: Timer 1 has been started.
+2/5/2018 6:32:59 PM: Inside Patient loop
+2/5/2018 6:32:59 PM: day diff:-5
+2/5/2018 6:32:59 PM: calculatedTime:6PM
+2/5/2018 6:32:59 PM: setTime:9am
+2/5/2018 6:32:59 PM: Appointment to +18375988301
+2/5/2018 6:32:59 PM: Appointment from +16467591379
+2/5/2018 6:32:59 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:32:59 PM: currentDate 2/5/2018 6:32:59 PM
+2/5/2018 6:32:59 PM: day diff:17
+2/5/2018 6:32:59 PM: calculatedTime:6PM
+2/5/2018 6:32:59 PM: setTime:9am
+2/5/2018 6:32:59 PM: Appointment to +917986501164
+2/5/2018 6:32:59 PM: Appointment from +16467591379
+2/5/2018 6:32:59 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:32:59 PM: currentDate 2/5/2018 6:32:59 PM
+2/5/2018 6:32:59 PM: day diff:-10
+2/5/2018 6:32:59 PM: calculatedTime:6PM
+2/5/2018 6:32:59 PM: setTime:9am
+2/5/2018 6:32:59 PM: Appointment to +917986501164
+2/5/2018 6:32:59 PM: Appointment from +16467591379
+2/5/2018 6:32:59 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:32:59 PM: currentDate 2/5/2018 6:32:59 PM
+2/5/2018 6:32:59 PM: day diff:-5
+2/5/2018 6:32:59 PM: calculatedTime:6PM
+2/5/2018 6:32:59 PM: setTime:9am
+2/5/2018 6:32:59 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:32:59 PM: Successfully send message for scheduled
+2/5/2018 6:32:59 PM: Inside Patient loop
+2/5/2018 6:32:59 PM: To Number: +19023387215
+2/5/2018 6:32:59 PM: From Number: +16467591379
+2/5/2018 6:32:59 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:59 PM: Current Date: 2/5/2018 6:32:59 PM
+2/5/2018 6:32:59 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:32:59 PM:  scheduled days: 11
+2/5/2018 6:32:59 PM: Inside total days comparison
+2/5/2018 6:33:00 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:33:00 PM: Successfully send message for scheduled
+2/5/2018 6:33:00 PM: Inside Patient loop
+2/5/2018 6:33:00 PM: To Number: +18375988301
+2/5/2018 6:33:00 PM: From Number: +16467591379
+2/5/2018 6:33:00 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:00 PM: Current Date: 2/5/2018 6:33:00 PM
+2/5/2018 6:33:00 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:00 PM:  scheduled days: -16
+2/5/2018 6:33:00 PM: Inside Patient loop
+2/5/2018 6:33:00 PM: To Number: +18375988304
+2/5/2018 6:33:00 PM: From Number: +16467591379
+2/5/2018 6:33:00 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:00 PM: Current Date: 2/5/2018 6:33:00 PM
+2/5/2018 6:33:00 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:00 PM:  scheduled days: -17
+2/5/2018 6:33:09 PM: Timer 2 has been started.
+2/5/2018 6:33:09 PM: day diff:-5
+2/5/2018 6:33:09 PM: calculatedTime:6PM
+2/5/2018 6:33:09 PM: setTime:9am
+2/5/2018 6:33:09 PM: Appointment to +18375988301
+2/5/2018 6:33:09 PM: Appointment from +16467591379
+2/5/2018 6:33:09 PM: currentAppointmentDate 2/23/2018 1:02:00 AM
+2/5/2018 6:33:09 PM: currentDate 2/5/2018 6:33:09 PM
+2/5/2018 6:33:09 PM: day diff:17
+2/5/2018 6:33:09 PM: calculatedTime:6PM
+2/5/2018 6:33:09 PM: setTime:9am
+2/5/2018 6:33:09 PM: Appointment to +917986501164
+2/5/2018 6:33:09 PM: Appointment from +16467591379
+2/5/2018 6:33:09 PM: currentAppointmentDate 1/27/2018 12:01:00 AM
+2/5/2018 6:33:09 PM: currentDate 2/5/2018 6:33:09 PM
+2/5/2018 6:33:09 PM: day diff:-10
+2/5/2018 6:33:09 PM: calculatedTime:6PM
+2/5/2018 6:33:09 PM: setTime:9am
+2/5/2018 6:33:09 PM: Appointment to +917986501164
+2/5/2018 6:33:09 PM: Appointment from +16467591379
+2/5/2018 6:33:09 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:33:09 PM: currentDate 2/5/2018 6:33:09 PM
+2/5/2018 6:33:09 PM: day diff:-5
+2/5/2018 6:33:09 PM: calculatedTime:6PM
+2/5/2018 6:33:09 PM: setTime:9am
+2/5/2018 6:33:09 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:33:09 PM: Successfully send message for scheduled
+2/5/2018 6:33:09 PM: Inside Patient loop
+2/5/2018 6:33:09 PM: To Number: +19023387215
+2/5/2018 6:33:09 PM: From Number: +16467591379
+2/5/2018 6:33:09 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:33:09 PM: Current Date: 2/5/2018 6:33:09 PM
+2/5/2018 6:33:09 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:33:09 PM:  scheduled days: 11
+2/5/2018 6:33:09 PM: Inside total days comparison
+2/5/2018 6:33:10 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:33:10 PM: Successfully send message for scheduled
+2/5/2018 6:33:10 PM: Inside Patient loop
+2/5/2018 6:33:10 PM: To Number: +18375988301
+2/5/2018 6:33:10 PM: From Number: +16467591379
+2/5/2018 6:33:10 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:10 PM: Current Date: 2/5/2018 6:33:10 PM
+2/5/2018 6:33:10 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:10 PM:  scheduled days: -16
+2/5/2018 6:33:10 PM: Inside Patient loop
+2/5/2018 6:33:10 PM: To Number: +18375988304
+2/5/2018 6:33:10 PM: From Number: +16467591379
+2/5/2018 6:33:10 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:10 PM: Current Date: 2/5/2018 6:33:10 PM
+2/5/2018 6:33:10 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:10 PM:  scheduled days: -17
+2/5/2018 6:33:19 PM: Timer 2 has been started.
+2/5/2018 6:33:19 PM: Appointment to +18375988301
+2/5/2018 6:33:19 PM: Current Date: 2/5/2018 6:33:19 PM
+2/5/2018 6:33:19 PM: Current EnrollmentDate: 1/9/2018 7:48:00 PM
+2/5/2018 6:33:19 PM:  scheduled days: 27
+2/5/2018 6:33:19 PM: Inside total days comparison
+2/5/2018 6:33:19 PM: Inside Patient loop
+2/5/2018 6:33:19 PM: To Number: +19177481048
+2/5/2018 6:33:19 PM: From Number: +16467591379
+2/5/2018 6:33:19 PM: EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:33:19 PM: Current Date: 2/5/2018 6:33:19 PM
+2/5/2018 6:33:19 PM: Current EnrollmentDate: 1/31/2018 12:30:00 AM
+2/5/2018 6:33:19 PM:  scheduled days: 6
+2/5/2018 6:33:19 PM: Inside total days comparison
+2/5/2018 6:33:19 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:33:19 PM: Successfully send message for scheduled
+2/5/2018 6:33:19 PM: Inside Patient loop
+2/5/2018 6:33:19 PM: To Number: +19023387215
+2/5/2018 6:33:19 PM: From Number: +16467591379
+2/5/2018 6:33:19 PM: EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:33:19 PM: Current Date: 2/5/2018 6:33:19 PM
+2/5/2018 6:33:19 PM: Current EnrollmentDate: 1/25/2018 7:21:00 PM
+2/5/2018 6:33:19 PM:  scheduled days: 11
+2/5/2018 6:33:19 PM: Inside total days comparison
+2/5/2018 6:33:20 PM: Schedule Message saved in the SMSReply table
+2/5/2018 6:33:20 PM: Successfully send message for scheduled
+2/5/2018 6:33:20 PM: Inside Patient loop
+2/5/2018 6:33:20 PM: To Number: +18375988301
+2/5/2018 6:33:20 PM: From Number: +16467591379
+2/5/2018 6:33:20 PM: EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:20 PM: Current Date: 2/5/2018 6:33:20 PM
+2/5/2018 6:33:20 PM: Current EnrollmentDate: 2/21/2018 3:52:00 PM
+2/5/2018 6:33:20 PM:  scheduled days: -16
+2/5/2018 6:33:20 PM: Inside Patient loop
+2/5/2018 6:33:20 PM: To Number: +18375988304
+2/5/2018 6:33:20 PM: From Number: +16467591379
+2/5/2018 6:33:20 PM: EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:20 PM: Current Date: 2/5/2018 6:33:20 PM
+2/5/2018 6:33:20 PM: Current EnrollmentDate: 2/22/2018 4:42:00 PM
+2/5/2018 6:33:20 PM:  scheduled days: -17
+2/5/2018 6:33:29 PM: Timer 2 has been started.
+2/5/2018 6:33:29 PM: currentAppointmentDate 2/1/2018 12:02:00 AM
+2/5/2018 6:33:29 PM: Current Date: 2/5/2018 6:33:29 PM
+2/5/2018 6:33:29 PM: Current EnrollmentDate: 2/24/2018 8:21:00 PM
+2/5/2018 6:33:29 PM:  scheduled days: -19
+2/5/2018 6:33:29 PM: Inside Patient loop
+2/5/2018 6:33:29 PM: To Number: +11234567891
+3/21/2018 2:46:55 PM: Devin Window service started
+3/21/2018 3:46:55 PM: Timer 1 has been started.
+3/21/2018 3:46:55 PM: Inside Send Appointment Messages
+3/21/2018 3:46:56 PM: Appointment to +18375988652
+3/21/2018 3:46:56 PM: Appointment from +16467591379
+3/21/2018 3:46:56 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/21/2018 3:46:56 PM: currentDate 3/21/2018 3:46:56 PM
+3/21/2018 3:46:56 PM: day diff:-5
+3/21/2018 3:46:56 PM: calculatedTime:3PM
+3/21/2018 3:46:56 PM: setTime:04:00 AM
+3/21/2018 3:46:56 PM: Appointment to +18375988666
+3/21/2018 3:46:56 PM: Appointment from +16467591379
+3/21/2018 3:46:56 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/21/2018 3:46:56 PM: currentDate 3/21/2018 3:46:56 PM
+3/21/2018 3:46:56 PM: day diff:-6
+3/21/2018 3:46:56 PM: calculatedTime:3PM
+3/21/2018 3:46:56 PM: setTime:04:00 AM
+3/21/2018 4:46:55 PM: Timer 1 has been started.
+3/21/2018 4:46:55 PM: Inside Send Appointment Messages
+3/21/2018 4:46:55 PM: Appointment to +18375988652
+3/21/2018 4:46:55 PM: Appointment from +16467591379
+3/21/2018 4:46:55 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/21/2018 4:46:55 PM: currentDate 3/21/2018 4:46:55 PM
+3/21/2018 4:46:55 PM: day diff:-6
+3/21/2018 4:46:55 PM: calculatedTime:4PM
+3/21/2018 4:46:55 PM: setTime:04:00 AM
+3/21/2018 4:46:55 PM: Appointment to +18375988666
+3/21/2018 4:46:55 PM: Appointment from +16467591379
+3/21/2018 4:46:55 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/21/2018 4:46:55 PM: currentDate 3/21/2018 4:46:55 PM
+3/21/2018 4:46:55 PM: day diff:-6
+3/21/2018 4:46:55 PM: calculatedTime:4PM
+3/21/2018 4:46:55 PM: setTime:04:00 AM
+3/21/2018 5:46:55 PM: Timer 1 has been started.
+3/21/2018 5:46:55 PM: Inside Send Appointment Messages
+3/21/2018 5:46:55 PM: Appointment to +18375988652
+3/21/2018 5:46:55 PM: Appointment from +16467591379
+3/21/2018 5:46:55 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/21/2018 5:46:55 PM: currentDate 3/21/2018 5:46:55 PM
+3/21/2018 5:46:55 PM: day diff:-6
+3/21/2018 5:46:55 PM: calculatedTime:5PM
+3/21/2018 5:46:55 PM: setTime:04:00 AM
+3/21/2018 5:46:55 PM: Appointment to +18375988666
+3/21/2018 5:46:55 PM: Appointment from +16467591379
+3/21/2018 5:46:55 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/21/2018 5:46:55 PM: currentDate 3/21/2018 5:46:55 PM
+3/21/2018 5:46:55 PM: day diff:-6
+3/21/2018 5:46:55 PM: calculatedTime:5PM
+3/21/2018 5:46:55 PM: setTime:04:00 AM
+3/21/2018 6:46:55 PM: Timer 1 has been started.
+3/21/2018 6:46:55 PM: Inside Send Appointment Messages
+3/21/2018 6:46:55 PM: Appointment to +18375988652
+3/21/2018 6:46:55 PM: Appointment from +16467591379
+3/21/2018 6:46:55 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/21/2018 6:46:55 PM: currentDate 3/21/2018 6:46:55 PM
+3/21/2018 6:46:55 PM: day diff:-6
+3/21/2018 6:46:55 PM: calculatedTime:6PM
+3/21/2018 6:46:55 PM: setTime:04:00 AM
+3/21/2018 6:46:55 PM: Appointment to +18375988666
+3/21/2018 6:46:55 PM: Appointment from +16467591379
+3/21/2018 6:46:55 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/21/2018 6:46:55 PM: currentDate 3/21/2018 6:46:55 PM
+3/21/2018 6:46:55 PM: day diff:-6
+3/21/2018 6:46:55 PM: calculatedTime:6PM
+3/21/2018 6:46:55 PM: setTime:04:00 AM
+3/21/2018 7:46:55 PM: Timer 1 has been started.
+3/21/2018 7:46:55 PM: Inside Send Appointment Messages
+3/21/2018 7:46:55 PM: Appointment to +18375988652
+3/21/2018 7:46:55 PM: Appointment from +16467591379
+3/21/2018 7:46:55 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/21/2018 7:46:55 PM: currentDate 3/21/2018 7:46:55 PM
+3/21/2018 7:46:55 PM: day diff:-6
+3/21/2018 7:46:55 PM: calculatedTime:7PM
+3/21/2018 7:46:55 PM: setTime:04:00 AM
+3/21/2018 7:46:55 PM: Appointment to +18375988666
+3/21/2018 7:46:55 PM: Appointment from +16467591379
+3/21/2018 7:46:55 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/21/2018 7:46:55 PM: currentDate 3/21/2018 7:46:55 PM
+3/21/2018 7:46:55 PM: day diff:-6
+3/21/2018 7:46:55 PM: calculatedTime:7PM
+3/21/2018 7:46:55 PM: setTime:04:00 AM
+3/21/2018 7:46:55 PM: Appointment to +11234567890
+3/21/2018 7:46:55 PM: Appointment from +16467591379
+3/21/2018 7:46:55 PM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/21/2018 7:46:55 PM: currentDate 3/21/2018 7:46:55 PM
+3/21/2018 7:46:55 PM: day diff:-20
+3/21/2018 7:46:55 PM: calculatedTime:7PM
+3/21/2018 7:46:55 PM: setTime:9am
+3/22/2018 9:34:01 AM: Timer 1 has been started.
+3/22/2018 9:34:01 AM: Inside Send Appointment Messages
+3/22/2018 9:34:01 AM: Appointment to +18375988652
+3/22/2018 9:34:01 AM: Appointment from +16467591379
+3/22/2018 9:34:01 AM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 9:34:01 AM: currentDate 3/22/2018 9:34:01 AM
+3/22/2018 9:34:01 AM: day diff:-6
+3/22/2018 9:34:01 AM: calculatedTime:9AM
+3/22/2018 9:34:01 AM: setTime:04:00 AM
+3/22/2018 9:34:01 AM: Appointment to +18375988666
+3/22/2018 9:34:01 AM: Appointment from +16467591379
+3/22/2018 9:34:01 AM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 9:34:01 AM: currentDate 3/22/2018 9:34:01 AM
+3/22/2018 9:34:01 AM: day diff:-7
+3/22/2018 9:34:01 AM: calculatedTime:9AM
+3/22/2018 9:34:01 AM: setTime:04:00 AM
+3/22/2018 9:34:01 AM: Appointment to +11234567890
+3/22/2018 9:34:01 AM: Appointment from +16467591379
+3/22/2018 9:34:01 AM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 9:34:01 AM: currentDate 3/22/2018 9:34:01 AM
+3/22/2018 9:34:01 AM: day diff:-21
+3/22/2018 9:34:01 AM: calculatedTime:9AM
+3/22/2018 9:34:01 AM: setTime:9am
+3/22/2018 9:34:01 AM: Inside Condition
+3/22/2018 10:34:01 AM: Timer 1 has been started.
+3/22/2018 10:34:01 AM: Inside Send Appointment Messages
+3/22/2018 10:34:01 AM: Appointment to +18375988652
+3/22/2018 10:34:01 AM: Appointment from +16467591379
+3/22/2018 10:34:01 AM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 10:34:01 AM: currentDate 3/22/2018 10:34:01 AM
+3/22/2018 10:34:01 AM: day diff:-6
+3/22/2018 10:34:01 AM: calculatedTime:10AM
+3/22/2018 10:34:01 AM: setTime:04:00 AM
+3/22/2018 10:34:01 AM: Appointment to +18375988666
+3/22/2018 10:34:01 AM: Appointment from +16467591379
+3/22/2018 10:34:01 AM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 10:34:01 AM: currentDate 3/22/2018 10:34:01 AM
+3/22/2018 10:34:01 AM: day diff:-7
+3/22/2018 10:34:01 AM: calculatedTime:10AM
+3/22/2018 10:34:01 AM: setTime:04:00 AM
+3/22/2018 10:34:01 AM: Appointment to +11234567890
+3/22/2018 10:34:01 AM: Appointment from +16467591379
+3/22/2018 10:34:01 AM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 10:34:01 AM: currentDate 3/22/2018 10:34:01 AM
+3/22/2018 10:34:01 AM: day diff:-21
+3/22/2018 10:34:01 AM: calculatedTime:10AM
+3/22/2018 10:34:01 AM: setTime:9am
+3/22/2018 11:34:01 AM: Timer 1 has been started.
+3/22/2018 11:34:01 AM: Inside Send Appointment Messages
+3/22/2018 11:34:01 AM: Appointment to +18375988652
+3/22/2018 11:34:01 AM: Appointment from +16467591379
+3/22/2018 11:34:01 AM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 11:34:01 AM: currentDate 3/22/2018 11:34:01 AM
+3/22/2018 11:34:01 AM: day diff:-6
+3/22/2018 11:34:01 AM: calculatedTime:11AM
+3/22/2018 11:34:01 AM: setTime:04:00 AM
+3/22/2018 11:34:01 AM: Appointment to +18375988666
+3/22/2018 11:34:01 AM: Appointment from +16467591379
+3/22/2018 11:34:01 AM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 11:34:01 AM: currentDate 3/22/2018 11:34:01 AM
+3/22/2018 11:34:01 AM: day diff:-7
+3/22/2018 11:34:01 AM: calculatedTime:11AM
+3/22/2018 11:34:01 AM: setTime:04:00 AM
+3/22/2018 11:34:01 AM: Appointment to +11234567890
+3/22/2018 11:34:01 AM: Appointment from +16467591379
+3/22/2018 11:34:01 AM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 11:34:01 AM: currentDate 3/22/2018 11:34:01 AM
+3/22/2018 11:34:01 AM: day diff:-21
+3/22/2018 11:34:01 AM: calculatedTime:11AM
+3/22/2018 11:34:01 AM: setTime:9am
+3/22/2018 12:34:01 PM: Timer 1 has been started.
+3/22/2018 12:34:01 PM: Inside Send Appointment Messages
+3/22/2018 12:34:01 PM: Appointment to +18375988652
+3/22/2018 12:34:01 PM: Appointment from +16467591379
+3/22/2018 12:34:01 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 12:34:01 PM: currentDate 3/22/2018 12:34:01 PM
+3/22/2018 12:34:01 PM: day diff:-6
+3/22/2018 12:34:01 PM: calculatedTime:12PM
+3/22/2018 12:34:01 PM: setTime:04:00 AM
+3/22/2018 12:34:01 PM: Appointment to +18375988666
+3/22/2018 12:34:01 PM: Appointment from +16467591379
+3/22/2018 12:34:01 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 12:34:01 PM: currentDate 3/22/2018 12:34:01 PM
+3/22/2018 12:34:01 PM: day diff:-7
+3/22/2018 12:34:01 PM: calculatedTime:12PM
+3/22/2018 12:34:01 PM: setTime:04:00 AM
+3/22/2018 12:34:01 PM: Appointment to +11234567890
+3/22/2018 12:34:01 PM: Appointment from +16467591379
+3/22/2018 12:34:01 PM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 12:34:01 PM: currentDate 3/22/2018 12:34:01 PM
+3/22/2018 12:34:01 PM: day diff:-21
+3/22/2018 12:34:01 PM: calculatedTime:12PM
+3/22/2018 12:34:01 PM: setTime:9am
+3/22/2018 1:34:01 PM: Timer 1 has been started.
+3/22/2018 1:34:01 PM: Inside Send Appointment Messages
+3/22/2018 1:34:01 PM: Appointment to +18375988652
+3/22/2018 1:34:01 PM: Appointment from +16467591379
+3/22/2018 1:34:01 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 1:34:01 PM: currentDate 3/22/2018 1:34:01 PM
+3/22/2018 1:34:01 PM: day diff:-6
+3/22/2018 1:34:01 PM: calculatedTime:1PM
+3/22/2018 1:34:01 PM: setTime:04:00 AM
+3/22/2018 1:34:01 PM: Appointment to +18375988666
+3/22/2018 1:34:01 PM: Appointment from +16467591379
+3/22/2018 1:34:01 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 1:34:01 PM: currentDate 3/22/2018 1:34:01 PM
+3/22/2018 1:34:01 PM: day diff:-7
+3/22/2018 1:34:01 PM: calculatedTime:1PM
+3/22/2018 1:34:01 PM: setTime:04:00 AM
+3/22/2018 1:34:01 PM: Appointment to +11234567890
+3/22/2018 1:34:01 PM: Appointment from +16467591379
+3/22/2018 1:34:01 PM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 1:34:01 PM: currentDate 3/22/2018 1:34:01 PM
+3/22/2018 1:34:01 PM: day diff:-21
+3/22/2018 1:34:01 PM: calculatedTime:1PM
+3/22/2018 1:34:01 PM: setTime:9am
+3/22/2018 2:34:01 PM: Timer 1 has been started.
+3/22/2018 2:34:01 PM: Inside Send Appointment Messages
+3/22/2018 2:34:01 PM: Appointment to +18375988652
+3/22/2018 2:34:01 PM: Appointment from +16467591379
+3/22/2018 2:34:01 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 2:34:01 PM: currentDate 3/22/2018 2:34:01 PM
+3/22/2018 2:34:01 PM: day diff:-6
+3/22/2018 2:34:01 PM: calculatedTime:2PM
+3/22/2018 2:34:01 PM: setTime:04:00 AM
+3/22/2018 2:34:01 PM: Appointment to +18375988666
+3/22/2018 2:34:01 PM: Appointment from +16467591379
+3/22/2018 2:34:01 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 2:34:01 PM: currentDate 3/22/2018 2:34:01 PM
+3/22/2018 2:34:01 PM: day diff:-7
+3/22/2018 2:34:01 PM: calculatedTime:2PM
+3/22/2018 2:34:01 PM: setTime:04:00 AM
+3/22/2018 2:34:01 PM: Appointment to +11234567890
+3/22/2018 2:34:01 PM: Appointment from +16467591379
+3/22/2018 2:34:01 PM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 2:34:01 PM: currentDate 3/22/2018 2:34:01 PM
+3/22/2018 2:34:01 PM: day diff:-21
+3/22/2018 2:34:01 PM: calculatedTime:2PM
+3/22/2018 2:34:01 PM: setTime:9am
+3/22/2018 3:34:01 PM: Timer 1 has been started.
+3/22/2018 3:34:01 PM: Inside Send Appointment Messages
+3/22/2018 3:34:01 PM: Appointment to +18375988652
+3/22/2018 3:34:01 PM: Appointment from +16467591379
+3/22/2018 3:34:01 PM: currentAppointmentDate 3/16/2018 4:03:00 AM
+3/22/2018 3:34:01 PM: currentDate 3/22/2018 3:34:01 PM
+3/22/2018 3:34:01 PM: day diff:-6
+3/22/2018 3:34:01 PM: calculatedTime:3PM
+3/22/2018 3:34:01 PM: setTime:04:00 AM
+3/22/2018 3:34:01 PM: Appointment to +18375988666
+3/22/2018 3:34:01 PM: Appointment from +16467591379
+3/22/2018 3:34:01 PM: currentAppointmentDate 3/15/2018 10:03:00 AM
+3/22/2018 3:34:01 PM: currentDate 3/22/2018 3:34:01 PM
+3/22/2018 3:34:01 PM: day diff:-7
+3/22/2018 3:34:01 PM: calculatedTime:3PM
+3/22/2018 3:34:01 PM: setTime:04:00 AM
+3/22/2018 3:34:01 PM: Appointment to +11234567890
+3/22/2018 3:34:01 PM: Appointment from +16467591379
+3/22/2018 3:34:01 PM: currentAppointmentDate 3/1/2018 7:03:00 PM
+3/22/2018 3:34:01 PM: currentDate 3/22/2018 3:34:01 PM
+3/22/2018 3:34:01 PM: day diff:-21
+3/22/2018 3:34:01 PM: calculatedTime:3PM
+3/22/2018 3:34:01 PM: setTime:9am
+3/22/2018 4:02:04 PM: Devin Window service stopped
+3/27/2018 6:20:23 PM: Devin Window service started
+3/27/2018 6:22:40 PM: Devin Window service stopped
+3/27/2018 6:22:43 PM: Devin Window service started
+3/27/2018 6:24:22 PM: Devin Window service stopped
+3/27/2018 6:24:23 PM: Devin Window service started
+3/27/2018 6:26:17 PM: Devin Window service stopped

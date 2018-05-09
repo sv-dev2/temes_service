@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DevinTwilioModelStoreContainer" CdmEntityContainer="DevinTwilioEntities">
+    <EntitySetMapping Name="Appointments">
+      <EntityTypeMapping TypeName="DevinTwilioModel.Appointment">
+        <MappingFragment StoreEntitySet="Appointment">
+          <ScalarProperty Name="Appointment_ID" ColumnName="Appointment_ID" />
+          <ScalarProperty Name="Appointment_PatientID" ColumnName="Appointment_PatientID" />
+          <ScalarProperty Name="Appointment_ProviderID" ColumnName="Appointment_ProviderID" />
+          <ScalarProperty Name="Appointment_Trigger_EventId" ColumnName="Appointment_Trigger_EventId" />
+          <ScalarProperty Name="Appointment_Description" ColumnName="Appointment_Description" />
+          <ScalarProperty Name="Appointment_StartTime" ColumnName="Appointment_StartTime" />
+          <ScalarProperty Name="Appointment_EndTime" ColumnName="Appointment_EndTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AppointmentProviders">
+      <EntityTypeMapping TypeName="DevinTwilioModel.AppointmentProvider">
+        <MappingFragment StoreEntitySet="AppointmentProvider">
+          <ScalarProperty Name="AppointmentProvider_ID" ColumnName="AppointmentProvider_ID" />
+          <ScalarProperty Name="AppointmentProvider_Name" ColumnName="AppointmentProvider_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AppointmentTypes">
+      <EntityTypeMapping TypeName="DevinTwilioModel.AppointmentType">
+        <MappingFragment StoreEntitySet="AppointmentType">
+          <ScalarProperty Name="AppointmentType_ID" ColumnName="AppointmentType_ID" />
+          <ScalarProperty Name="AppointmentType_Name" ColumnName="AppointmentType_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DashboardTexts">
+      <EntityTypeMapping TypeName="DevinTwilioModel.DashboardText">
+        <MappingFragment StoreEntitySet="DashboardText">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="DevinTwilioModel.Message">
+        <MappingFragment StoreEntitySet="Message">
+          <ScalarProperty Name="Message_ID" ColumnName="Message_ID" />
+          <ScalarProperty Name="Message_Messages" ColumnName="Message_Messages" />
+          <ScalarProperty Name="Message_TriggerTypeID" ColumnName="Message_TriggerTypeID" />
+          <ScalarProperty Name="Message_TriggerEventID" ColumnName="Message_TriggerEventID" />
+          <ScalarProperty Name="Message_TriggerID" ColumnName="Message_TriggerID" />
+          <ScalarProperty Name="Message_Time" ColumnName="Message_Time" />
+          <ScalarProperty Name="Message_FrequencyOfDelivery" ColumnName="Message_FrequencyOfDelivery" />
+          <ScalarProperty Name="Message_If1" ColumnName="Message_If1" />
+          <ScalarProperty Name="Message_If2" ColumnName="Message_If2" />
+          <ScalarProperty Name="Message_OtherNotes" ColumnName="Message_OtherNotes" />
+          <ScalarProperty Name="Message_TimesSent" ColumnName="Message_TimesSent" />
+          <ScalarProperty Name="Message_MMDomainID" ColumnName="Message_MMDomainID" />
+          <ScalarProperty Name="Message_MMSubDomainID" ColumnName="Message_MMSubDomainID" />
+          <ScalarProperty Name="Message_StageInTXID" ColumnName="Message_StageInTXID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MMDomains">
+      <EntityTypeMapping TypeName="DevinTwilioModel.MMDomain">
+        <MappingFragment StoreEntitySet="MMDomain">
+          <ScalarProperty Name="MMDomain_ID" ColumnName="MMDomain_ID" />
+          <ScalarProperty Name="MMDomain_Name" ColumnName="MMDomain_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MMSubDomains">
+      <EntityTypeMapping TypeName="DevinTwilioModel.MMSubDomain">
+        <MappingFragment StoreEntitySet="MMSubDomain">
+          <ScalarProperty Name="MMSubDomain_ID" ColumnName="MMSubDomain_ID" />
+          <ScalarProperty Name="MMSubDomain_Name" ColumnName="MMSubDomain_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Providers">
+      <EntityTypeMapping TypeName="DevinTwilioModel.Provider">
+        <MappingFragment StoreEntitySet="Provider">
+          <ScalarProperty Name="ProviderId" ColumnName="ProviderId" />
+          <ScalarProperty Name="ProviderName" ColumnName="ProviderName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="ContactEmail" ColumnName="ContactEmail" />
+          <ScalarProperty Name="ContactPhone" ColumnName="ContactPhone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="DevinTwilioModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="Role_Id" ColumnName="Role_Id" />
+          <ScalarProperty Name="Role_Name" ColumnName="Role_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ScheduleMessages">
+      <EntityTypeMapping TypeName="DevinTwilioModel.ScheduleMessage">
+        <MappingFragment StoreEntitySet="ScheduleMessage">
+          <ScalarProperty Name="ScheduleMessage_ID" ColumnName="ScheduleMessage_ID" />
+          <ScalarProperty Name="ScheduleMessage_Message" ColumnName="ScheduleMessage_Message" />
+          <ScalarProperty Name="ScheduleMessage_TriggerTypeID" ColumnName="ScheduleMessage_TriggerTypeID" />
+          <ScalarProperty Name="ScheduleMessage_TriggerEventID" ColumnName="ScheduleMessage_TriggerEventID" />
+          <ScalarProperty Name="ScheduleMessage_TriggerID" ColumnName="ScheduleMessage_TriggerID" />
+          <ScalarProperty Name="ScheduleMessage_StartTime" ColumnName="ScheduleMessage_StartTime" />
+          <ScalarProperty Name="ScheduleMessage_EndTime" ColumnName="ScheduleMessage_EndTime" />
+          <ScalarProperty Name="ScheduleMessage_FrequencyOfDelivery" ColumnName="ScheduleMessage_FrequencyOfDelivery" />
+          <ScalarProperty Name="ScheduleMessage_If1" ColumnName="ScheduleMessage_If1" />
+          <ScalarProperty Name="ScheduleMessage_If2" ColumnName="ScheduleMessage_If2" />
+          <ScalarProperty Name="ScheduleMessage_OtherNotes" ColumnName="ScheduleMessage_OtherNotes" />
+          <ScalarProperty Name="ScheduleMessage_TimesSent" ColumnName="ScheduleMessage_TimesSent" />
+          <ScalarProperty Name="ScheduleMessage_MMDomainID" ColumnName="ScheduleMessage_MMDomainID" />
+          <ScalarProperty Name="ScheduleMessage_MMSubDomainID" ColumnName="ScheduleMessage_MMSubDomainID" />
+          <ScalarProperty Name="ScheduleMessage_Time" ColumnName="ScheduleMessage_Time" />
+          <ScalarProperty Name="Display_MessageId" ColumnName="Display_MessageId" />
+          <ScalarProperty Name="Appointment_Schedule" ColumnName="Appointment_Schedule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SmsReplies">
+      <EntityTypeMapping TypeName="DevinTwilioModel.SmsReply">
+        <MappingFragment StoreEntitySet="SmsReply">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+          <ScalarProperty Name="From" ColumnName="From" />
+          <ScalarProperty Name="To" ColumnName="To" />
+          <ScalarProperty Name="ParentSid" ColumnName="ParentSid" />
+          <ScalarProperty Name="MessageId" ColumnName="MessageId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="MessageResponse" ColumnName="MessageResponse" />
+          <ScalarProperty Name="SmsStatus" ColumnName="SmsStatus" />
+          <ScalarProperty Name="SentDate" ColumnName="SentDate" />
+          <ScalarProperty Name="ResponseDate" ColumnName="ResponseDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StageInTXes">
+      <EntityTypeMapping TypeName="DevinTwilioModel.StageInTX">
+        <MappingFragment StoreEntitySet="StageInTX">
+          <ScalarProperty Name="StageInTX_ID" ColumnName="StageInTX_ID" />
+          <ScalarProperty Name="StageInTX_Name" ColumnName="StageInTX_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Triggers">
+      <EntityTypeMapping TypeName="DevinTwilioModel.Trigger">
+        <MappingFragment StoreEntitySet="Trigger">
+          <ScalarProperty Name="Trigger_ID" ColumnName="Trigger_ID" />
+          <ScalarProperty Name="Trigger_Trigger" ColumnName="Trigger_Trigger" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TriggerEvents">
+      <EntityTypeMapping TypeName="DevinTwilioModel.TriggerEvent">
+        <MappingFragment StoreEntitySet="TriggerEvent">
+          <ScalarProperty Name="TriggerEvent_ID" ColumnName="TriggerEvent_ID" />
+          <ScalarProperty Name="TriggerTypeId" ColumnName="TriggerTypeId" />
+          <ScalarProperty Name="TriggerEvent_Day" ColumnName="TriggerEvent_Day" />
+          <ScalarProperty Name="TriggerEvent_Event" ColumnName="TriggerEvent_Event" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TriggerTypes">
+      <EntityTypeMapping TypeName="DevinTwilioModel.TriggerType">
+        <MappingFragment StoreEntitySet="TriggerType">
+          <ScalarProperty Name="TriggerType_ID" ColumnName="TriggerType_ID" />
+          <ScalarProperty Name="TriggerType_Type" ColumnName="TriggerType_Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="DevinTwilioModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="Role_Id" ColumnName="Role_Id" />
+          <ScalarProperty Name="User_PhoneNumber" ColumnName="User_PhoneNumber" />
+          <ScalarProperty Name="MobileNumber" ColumnName="MobileNumber" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="EnrollmentDate" ColumnName="EnrollmentDate" />
+          <ScalarProperty Name="LastLoggedIn" ColumnName="LastLoggedIn" />
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserEnrollments">
+      <EntityTypeMapping TypeName="DevinTwilioModel.UserEnrollment">
+        <MappingFragment StoreEntitySet="UserEnrollment">
+          <ScalarProperty Name="UserEnrollmentId" ColumnName="UserEnrollmentId" />
+          <ScalarProperty Name="TriggerEventId" ColumnName="TriggerEventId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserStatus">
+      <EntityTypeMapping TypeName="DevinTwilioModel.UserStatu">
+        <MappingFragment StoreEntitySet="UserStatus">
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

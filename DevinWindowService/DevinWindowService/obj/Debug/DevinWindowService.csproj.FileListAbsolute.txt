@@ -1,0 +1,115 @@
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.pdb
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Twilio.dll
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\bin\Debug\Twilio.xml
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csprojResolveAssemblyReference.cache
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.ProjectInstaller.resources
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.Scheduler.resources
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csproj.GenerateResource.Cache
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Gagan Official Projects\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\Gagan_Last_work\Feb 9 Devin\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Chandan\Devin\Gagan_Last_work\Feb 9 Devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Chandan\Devin\Gagan_Last_work\Feb 9 Devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Twilio.dll
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Twilio.xml
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.ProjectInstaller.resources
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.Scheduler.resources
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csproj.GenerateResource.Cache
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Chandan\Devin\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Twilio.dll
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\bin\Debug\Twilio.xml
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csprojResolveAssemblyReference.cache
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.ProjectInstaller.resources
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.Scheduler.resources
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csproj.GenerateResource.Cache
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Chandan\Devin\temes\14_feb\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.pdb
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Twilio.dll
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.xml
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.xml
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.xml
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\devin\DevinWindowService\DevinWindowService\bin\Debug\Twilio.xml
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csprojResolveAssemblyReference.cache
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.ProjectInstaller.resources
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.Scheduler.resources
+F:\devin\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csproj.GenerateResource.Cache
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Twilio.dll
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\EntityFramework.SqlServer.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Newtonsoft.Json.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\bin\Debug\Twilio.xml
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csprojResolveAssemblyReference.cache
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.ProjectInstaller.resources
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.Scheduler.resources
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.csproj.GenerateResource.Cache
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Chandan\Devin\temes\09_april\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
+F:\Chandan\Devin\Davin_GitSouce_service_latest\temes_service.git\trunk\DevinWindowService\DevinWindowService\bin\Debug\DevinWindowService.exe.config
+F:\Chandan\Devin\Davin_GitSouce_service_latest\temes_service.git\trunk\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.exe
+F:\Chandan\Devin\Davin_GitSouce_service_latest\temes_service.git\trunk\DevinWindowService\DevinWindowService\obj\Debug\DevinWindowService.pdb
